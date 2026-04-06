@@ -7,9 +7,9 @@ My personal Linux config files for a minimal Wayland setup on CachyOS.
 | | |
 |---|---|
 | **OS** | CachyOS (Arch-based) |
-| **Compositor** | [niri](https://github.com/YaLTeR/niri) — scrollable tiling Wayland compositor |
+| **Compositor** | [niri](https://github.com/YaLTeR/niri): scrollable tiling Wayland compositor |
 | **Notifications** | [noctalia](https://github.com/noctalia/noctalia) |
-| **Editor** | [Antigravity](https://antigravity.google) — Google's agentic IDE |
+| **Editor** | [Antigravity](https://antigravity.google): Google's agentic IDE |
 | **Shell** | fish |
 | **Hardware** | Lenovo Legion 5 15ACH6 |
 
