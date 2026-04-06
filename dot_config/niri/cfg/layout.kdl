@@ -10,5 +10,14 @@
             proportion 0.66667
         }
 
+        focus-ring {
+        on
+        width 2
+        active-color "#a58ee1cb"
+        inactive-color "#505050"
+        urgent-color "#9b0000"
+    }
+
+
         struts {}
     }
