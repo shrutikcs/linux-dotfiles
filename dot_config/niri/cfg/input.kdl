@@ -1,0 +1,46 @@
+// ────────────── Input Configuration ──────────────
+// https://github.com/YaLTeR/niri/wiki/Configuration:-Input
+
+input {
+    keyboard {
+        xkb {
+            //If you want to overwrite your keyboard layout,
+            // uncomment the line below and change the layout accordingly.
+            //layout "us" // Use the American keyboard layout
+        }
+        numlock // Enable numlock on startup
+    }
+
+    touchpad {
+        // off
+        tap
+        // dwt
+        // dwtp 
+        // drag false
+        // drag-lock
+        natural-scroll
+        accel-speed 0.1
+        // accel-profile "flat"
+        // scroll-factor 1.0
+        // scroll-factor vertical=1.0 horizontal=1.0
+        // scroll-method "two-finger"
+        // scroll-button 273
+        // scroll-button-lock
+        // tap-button-map "left-middle-right"
+        // click-method "clickfinger"
+        // left-handed
+        // disabled-on-external-mouse
+        // middle-emulation
+    }
+
+    mouse {
+        // If you want to disable Mouse Acceleration,
+        // uncomment the lines below.
+        accel-profile "flat"
+        //accel-speed 0.0
+        
+    }
+
+    focus-follows-mouse // Automatically focus windows under the mouse pointer
+    workspace-auto-back-and-forth // Enable workspace back & forth switching
+}

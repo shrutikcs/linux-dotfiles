@@ -1,0 +1,7 @@
+binds {
+    // Core Noctalia binds
+    Mod+Space { spawn-sh "qs -c noctalia-shell ipc call launcher toggle"; }
+    Mod+Comma { spawn-sh "qs -c noctalia-shell ipc call settings toggle"; }
+    Mod+Period { spawn-sh "qs -c noctalia-shell ipc call launcher emoji"; }
+    
+}
