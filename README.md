@@ -95,6 +95,13 @@ My personal Linux config files for a minimal Wayland setup on CachyOS.
 | `Shift+Alt+↓` | Copy line down |
 | `Shift+Alt+↑` | Copy line up |
 
+## Custom Shell Aliases (Fish)
+
+| Alias | Command |
+|---|---|
+| `ag` | `antigravity` |
+| `efc` | `micro ~/.config/fish/config.fish` |
+
 ## Fresh install setup
 
 ```bash
