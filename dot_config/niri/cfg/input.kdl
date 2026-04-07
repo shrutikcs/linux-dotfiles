@@ -21,9 +21,9 @@ input {
         natural-scroll
         accel-speed 0.1
         // accel-profile "flat"
-        // scroll-factor 1.0
+        scroll-factor 1
         // scroll-factor vertical=1.0 horizontal=1.0
-        // scroll-method "two-finger"
+        scroll-method "two-finger"
         // scroll-button 273
         // scroll-button-lock
         // tap-button-map "left-middle-right"
@@ -34,13 +34,9 @@ input {
     }
 
     mouse {
-        // If you want to disable Mouse Acceleration,
-        // uncomment the lines below.
         accel-profile "flat"
-        //accel-speed 0.0
-        
     }
 
     focus-follows-mouse // Automatically focus windows under the mouse pointer
     workspace-auto-back-and-forth // Enable workspace back & forth switching
-}
+}    
