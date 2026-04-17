@@ -12,7 +12,7 @@
 
     cursor {
         xcursor-theme "MacTahoe-light"
-        xcursor-size 28
+        xcursor-size 32
     }
 
     debug {
