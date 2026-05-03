@@ -5,7 +5,7 @@ source /usr/share/cachyos-fish-config/conf.d/done.fish
 ## Set values
 ## Run fastfetch as welcome message
 function fish_greeting
-    fastfetch
+#    fastfetch
 end
 
 # Format man pages
@@ -140,3 +140,8 @@ alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
 # Custom
 alias ag="antigravity"
 alias efc="micro ~/.config/fish/config.fish"
+alias eac="micro ~/.config/alacritty/alacritty.toml"
+
+# bun
+set --export BUN_INSTALL "$HOME/.bun"
+set --export PATH $BUN_INSTALL/bin $PATH
