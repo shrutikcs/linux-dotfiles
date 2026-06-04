@@ -1,0 +1,3057 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
+  "name": "Rose Pine Icons",
+  "author": "Rose Pine <hi@rosepinetheme.com>",
+  "themes": [
+    {
+      "name": "Rose Pine Icons",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder-open.svg"
+      },
+      "file_stems": {
+        "LICENSE": "file",
+        "README": "file",
+        "README.md": "file",
+        "README.txt": "file",
+        "Makefile": "file",
+        "Caddyfile": "file",
+        ".DS_Store": "file",
+        "CMakeLists.txt": "file",
+        "Cargo.lock": "file",
+        "Cargo.toml": "file",
+        "_pinecone-color-theme.json": "file",
+        "pinecone.config.js": "file"
+      },
+      "file_suffixes": {
+        "Rproj": "file",
+        "Rmd": "file",
+        "RData": "file",
+        "Rhistory": "file",
+        "Dockerfile": "file",
+        "fbx": "file",
+        "glb": "file",
+        "gltf": "file",
+        "ma": "file",
+        "mb": "file",
+        "obj": "file",
+        "prc": "file",
+        "stl": "file",
+        "u3d": "file",
+        "usd": "file",
+        "aep": "file",
+        "ai": "file",
+        "indd": "file",
+        "indl": "file",
+        "indb": "file",
+        "psd": "file",
+        "psb": "file",
+        "xd": "file",
+        ".adonisrc.json": "file",
+        "ace": "file",
+        ".alexrc": "file",
+        ".alexrc.yaml": "file",
+        ".alexrc.yml": "file",
+        ".alexrc.js": "file",
+        "ab": "file",
+        "amber": "file",
+        "androidmanifest.xml": "file",
+        "apk": "file",
+        "smali": "file",
+        "dex": "file",
+        "angular-cli.json": "file",
+        ".angular-cli.json": "file",
+        "angular.json": "file",
+        "ng-package.json": "file",
+        "ng-template": "file",
+        ".ansible-lint": "file",
+        "ansible-lint.yml": "file",
+        "ansible-lint.yaml": "file",
+        "g4": "file",
+        "maven.config": "file",
+        "jvm.config": "file",
+        "pom.xml": "file",
+        "thrift": "file",
+        "apib": "file",
+        "apiblueprint": "file",
+        "apollo.config.js": "file",
+        "apollo.config.ts": "file",
+        "apple-app-site-association": "file",
+        "apple-developer-merchantid-domain-association": "file",
+        "ino": "file",
+        "adoc": "file",
+        "asciidoc": "file",
+        "asc": "file",
+        "asm": "file",
+        "a51": "file",
+        "inc": "file",
+        "nasm": "file",
+        "s": "file",
+        "ms": "file",
+        "agc": "file",
+        "ags": "file",
+        "aea": "file",
+        "argus": "file",
+        "mitigus": "file",
+        "binsource": "file",
+        "astro.config.js": "file",
+        "astro.config.mjs": "file",
+        "astro.config.cjs": "file",
+        "astro.config.ts": "file",
+        "astro.config.cts": "file",
+        "astro.config.mts": "file",
+        "astro": "file",
+        "aac": "file",
+        "aiff": "file",
+        "alac": "file",
+        "flac": "file",
+        "m4a": "file",
+        "m4p": "file",
+        "mogg": "file",
+        "mp3": "file",
+        "oga": "file",
+        "opus": "file",
+        "wav": "file",
+        "wma": "file",
+        "wv": "file",
+        "ahk": "file",
+        "azure-pipelines.yml": "file",
+        "azure-pipelines.yaml": "file",
+        "azure-pipelines-main.yml": "file",
+        "azure-pipelines-main.yaml": "file",
+        ".babelrc": "file",
+        ".babelrc.cjs": "file",
+        ".babelrc.js": "file",
+        ".babelrc.mjs": "file",
+        ".babelrc.json": "file",
+        "babel.config.cjs": "file",
+        "babel.config.js": "file",
+        "babel.config.mjs": "file",
+        "babel.config.json": "file",
+        "babel-transform.js": "file",
+        ".babel-plugin-macrosrc": "file",
+        ".babel-plugin-macrosrc.json": "file",
+        ".babel-plugin-macrosrc.yaml": "file",
+        ".babel-plugin-macrosrc.yml": "file",
+        ".babel-plugin-macrosrc.js": "file",
+        "babel-plugin-macros.config.js": "file",
+        "applypatch-msg": "file",
+        "pre-applypatch": "file",
+        "post-applypatch": "file",
+        "pre-commit": "file",
+        "prepare-commit-message": "file",
+        "commit-msg": "file",
+        "post-commit": "file",
+        "pre-rebase": "file",
+        "post-checkout": "file",
+        "post-merge": "file",
+        "pre-receive": "file",
+        "update": "file",
+        "post-receive": "file",
+        "post-update": "file",
+        "pre-auto-gc": "file",
+        "post-rewrite": "file",
+        "pre-push": "file",
+        "sh": "file",
+        "ksh": "file",
+        "csh": "file",
+        "tcsh": "file",
+        "zsh": "file",
+        "bash": "file",
+        "awk": "file",
+        "fish": "file",
+        "bat": "file",
+        "cmd": "file",
+        ".bazelrc": "file",
+        "bzl": "file",
+        "bazel": "file",
+        "benchmark.md": "file",
+        "benchmark.rst": "file",
+        "benchmark.txt": "file",
+        "benchmarks.md": "file",
+        "benchmarks.rst": "file",
+        "benchmarks.txt": "file",
+        "bicepconfig.json": "file",
+        "bicep": "file",
+        "bicepparam": "file",
+        "bin": "file",
+        "biome.json": "file",
+        "biome.jsonc": "file",
+        "bitbucket-pipelines.yaml": "file",
+        "bitbucket-pipelines.yml": "file",
+        "blink": "file",
+        "blitz.config.js": "file",
+        "blitz.config.ts": "file",
+        ".blitz.config.compiled.js": "file",
+        ".bowerrc": "file",
+        "bower.json": "file",
+        "browserslist": "file",
+        ".browserslistrc": "file",
+        "bun.lock": "file",
+        "bun.lockb": "file",
+        "bunfig.toml": "file",
+        "h": "file",
+        "c": "file",
+        "i": "file",
+        "mi": "file",
+        "cabal.project": "file",
+        "cabal": "file",
+        "caddyfile": "file",
+        "capacitor.config.json": "file",
+        "capacitor.config.ts": "file",
+        "cargo.lock": "file",
+        "cargo.toml": "file",
+        "cer": "file",
+        "cert": "file",
+        "crt": "file",
+        "pfx": "file",
+        "entitlements": "file",
+        "changelog": "file",
+        "changelog.md": "file",
+        "changelog.rst": "file",
+        "changelog.txt": "file",
+        "changes": "file",
+        "changes.md": "file",
+        "changes.rst": "file",
+        "changes.txt": "file",
+        "circle.yml": "file",
+        "clj": "file",
+        "cljs": "file",
+        "cljc": "file",
+        "cmakelists.txt": "file",
+        "cmakecache.txt": "file",
+        "cmake": "file",
+        "cob": "file",
+        "cbl": "file",
+        ".codeclimate.yml": "file",
+        "code_of_conduct.md": "file",
+        "code_of_conduct.txt": "file",
+        "code_of_conduct": "file",
+        "codeowners": "file",
+        "owners": "file",
+        "coffee": "file",
+        "cson": "file",
+        "iced": "file",
+        ".commitlintrc": "file",
+        ".commitlintrc.js": "file",
+        ".commitlintrc.cjs": "file",
+        ".commitlintrc.ts": "file",
+        ".commitlintrc.cts": "file",
+        ".commitlintrc.json": "file",
+        ".commitlintrc.yaml": "file",
+        ".commitlintrc.yml": "file",
+        ".commitlint.yaml": "file",
+        ".commitlint.yml": "file",
+        "commitlint.config.js": "file",
+        "commitlint.config.cjs": "file",
+        "commitlint.config.ts": "file",
+        "commitlint.config.cts": "file",
+        "contributing.md": "file",
+        "contributing.rst": "file",
+        "contributing.txt": "file",
+        "contributing": "file",
+        "hh": "file",
+        "hpp": "file",
+        "hxx": "file",
+        "h++": "file",
+        "hp": "file",
+        "tcc": "file",
+        "inl": "file",
+        "cc": "file",
+        "cpp": "file",
+        "cxx": "file",
+        "c++": "file",
+        "cp": "file",
+        "mii": "file",
+        "ii": "file",
+        "cr": "file",
+        "ecr": "file",
+        "cs": "file",
+        "csx": "file",
+        "csharp": "file",
+        "cspell.json": "file",
+        "cspell.yml": "file",
+        "cspell.yaml": "file",
+        ".cspell.json": "file",
+        ".cspell.yml": "file",
+        ".cspell.yaml": "file",
+        "cspell.config.js": "file",
+        "cspell.config.cjs": "file",
+        "cspell.config.yml": "file",
+        "cspell.config.yaml": "file",
+        "css.map": "file",
+        "css": "file",
+        "csv": "file",
+        "tsv": "file",
+        "psv": "file",
+        "feature": "file",
+        "features": "file",
+        "cu": "file",
+        "cuh": "file",
+        "cue": "file",
+        ".cursorignore": "file",
+        ".cursorindexingignore": "file",
+        ".cursorrules": "file",
+        "cypress.json": "file",
+        "cypress.env.json": "file",
+        "cypress.config.ts": "file",
+        "cypress.config.js": "file",
+        "cypress.config.cjs": "file",
+        "cypress.config.mjs": "file",
+        "d": "file",
+        "di": "file",
+        "darklua.json": "file",
+        "darklua.json5": "file",
+        "config.dart": "file",
+        "freezed.dart": "file",
+        "gr.dart": "file",
+        "g.dart": "file",
+        "dart": "file",
+        "pdb": "file",
+        "sql": "file",
+        "pks": "file",
+        "pkb": "file",
+        "accdb": "file",
+        "mdb": "file",
+        "sqlite": "file",
+        "sqlite3": "file",
+        "pgsql": "file",
+        "postgres": "file",
+        "plpgsql": "file",
+        "psql": "file",
+        "db": "file",
+        "db3": "file",
+        "dat": "file",
+        "deno.lock": "file",
+        "deno.json": "file",
+        "deno.jsonc": "file",
+        "dependabot.yml": "file",
+        "dependabot.yaml": "file",
+        "devcontainer.json": "file",
+        ".devcontainer.json": "file",
+        "dhall": "file",
+        "dhallb": "file",
+        "djt": "file",
+        "docker-compose.yml": "file",
+        "docker-compose.override.yml": "file",
+        "docker-compose.prod.yml": "file",
+        "docker-compose.production.yml": "file",
+        "docker-compose.alpha.yml": "file",
+        "docker-compose.beta.yml": "file",
+        "docker-compose.stage.yml": "file",
+        "docker-compose.staging.yml": "file",
+        "docker-compose.dev.yml": "file",
+        "docker-compose.development.yml": "file",
+        "docker-compose.local.yml": "file",
+        "docker-compose.test.yml": "file",
+        "docker-compose.testing.yml": "file",
+        "docker-compose.ci.yml": "file",
+        "docker-compose.web.yml": "file",
+        "docker-compose.worker.yml": "file",
+        "docker-compose.yaml": "file",
+        "docker-compose.override.yaml": "file",
+        "docker-compose.prod.yaml": "file",
+        "docker-compose.production.yaml": "file",
+        "docker-compose.alpha.yaml": "file",
+        "docker-compose.beta.yaml": "file",
+        "docker-compose.stage.yaml": "file",
+        "docker-compose.staging.yaml": "file",
+        "docker-compose.dev.yaml": "file",
+        "docker-compose.development.yaml": "file",
+        "docker-compose.local.yaml": "file",
+        "docker-compose.test.yaml": "file",
+        "docker-compose.testing.yaml": "file",
+        "docker-compose.ci.yaml": "file",
+        "docker-compose.web.yaml": "file",
+        "docker-compose.worker.yaml": "file",
+        "compose.yaml": "file",
+        "compose.override.yaml": "file",
+        "compose.prod.yaml": "file",
+        "compose.production.yaml": "file",
+        "compose.alpha.yaml": "file",
+        "compose.beta.yaml": "file",
+        "compose.stage.yaml": "file",
+        "compose.staging.yaml": "file",
+        "compose.dev.yaml": "file",
+        "compose.development.yaml": "file",
+        "compose.local.yaml": "file",
+        "compose.test.yaml": "file",
+        "compose.testing.yaml": "file",
+        "compose.ci.yaml": "file",
+        "compose.web.yaml": "file",
+        "compose.worker.yaml": "file",
+        "compose.yml": "file",
+        "compose.override.yml": "file",
+        "compose.prod.yml": "file",
+        "compose.production.yml": "file",
+        "compose.alpha.yml": "file",
+        "compose.beta.yml": "file",
+        "compose.stage.yml": "file",
+        "compose.staging.yml": "file",
+        "compose.dev.yml": "file",
+        "compose.development.yml": "file",
+        "compose.local.yml": "file",
+        "compose.test.yml": "file",
+        "compose.testing.yml": "file",
+        "compose.ci.yml": "file",
+        "compose.web.yml": "file",
+        "compose.worker.yml": "file",
+        "dockerignore": "file",
+        "containerignore": "file",
+        "dockerfile": "file",
+        "dockerfile.prod": "file",
+        "dockerfile.production": "file",
+        "dockerfile.alpha": "file",
+        "dockerfile.beta": "file",
+        "dockerfile.stage": "file",
+        "dockerfile.staging": "file",
+        "dockerfile.dev": "file",
+        "dockerfile.development": "file",
+        "dockerfile.local": "file",
+        "dockerfile.test": "file",
+        "dockerfile.testing": "file",
+        "dockerfile.ci": "file",
+        "dockerfile.web": "file",
+        "dockerfile.worker": "file",
+        "containerfile": "file",
+        "containerfile.prod": "file",
+        "containerfile.production": "file",
+        "containerfile.alpha": "file",
+        "containerfile.beta": "file",
+        "containerfile.stage": "file",
+        "containerfile.staging": "file",
+        "containerfile.dev": "file",
+        "containerfile.development": "file",
+        "containerfile.local": "file",
+        "containerfile.test": "file",
+        "containerfile.testing": "file",
+        "containerfile.ci": "file",
+        "containerfile.web": "file",
+        "containerfile.worker": "file",
+        "docusaurus.config.js": "file",
+        "docusaurus.config.mjs": "file",
+        "docusaurus.config.cjs": "file",
+        "docusaurus.config.ts": "file",
+        "drawio": "file",
+        "dio": "file",
+        "drizzle.config.ts": "file",
+        "drizzle.config.js": "file",
+        "dub.selections.json": "file",
+        "dub.json": "file",
+        "dub.sdl": "file",
+        ".editorconfig": "file",
+        "ejs": "file",
+        ".eleventy.js": "file",
+        "eleventy.config.js": "file",
+        "eleventy.config.mjs": "file",
+        "eleventy.config.cjs": "file",
+        ".eleventyignore": "file",
+        "ex": "file",
+        "exs": "file",
+        "eex": "file",
+        "leex": "file",
+        "heex": "file",
+        "elm": "file",
+        ".ember-cli": "file",
+        ".ember-cli.js": "file",
+        "ember-cli-builds.js": "file",
+        ".env.defaults": "file",
+        ".env.example": "file",
+        ".env.sample": "file",
+        ".env.template": "file",
+        ".env.schema": "file",
+        ".env.local": "file",
+        ".env.dev": "file",
+        ".env.development": "file",
+        ".env.alpha": "file",
+        ".env.e2e": "file",
+        ".env.qa": "file",
+        ".env.dist": "file",
+        ".env.prod": "file",
+        ".env.production": "file",
+        ".env.stage": "file",
+        ".env.staging": "file",
+        ".env.preview": "file",
+        ".env.test": "file",
+        ".env.testing": "file",
+        ".env.dev.local": "file",
+        ".env.development.local": "file",
+        ".env.qa.local": "file",
+        ".env.prod.local": "file",
+        ".env.production.local": "file",
+        ".env.staging.local": "file",
+        ".env.test.local": "file",
+        ".env.uat": "file",
+        ".env.cat": "file",
+        "env": "file",
+        ".envrc": "file",
+        "erl": "file",
+        "esbuild.js": "file",
+        "esbuild.ts": "file",
+        "esbuild.cjs": "file",
+        "esbuild.mjs": "file",
+        "esbuild.config.js": "file",
+        "esbuild.config.ts": "file",
+        "esbuild.config.cjs": "file",
+        "esbuild.config.mjs": "file",
+        ".eslintignore": "file",
+        ".eslintcache,": "file",
+        ".eslintrc.js": "file",
+        ".eslintrc.cjs": "file",
+        ".eslintrc.yaml": "file",
+        ".eslintrc.yml": "file",
+        ".eslintrc.json": "file",
+        ".eslintrc-md.js": "file",
+        ".eslintrc-jsdoc.js": "file",
+        ".eslintrc": "file",
+        "eslint.config.js": "file",
+        "eslint.config.cjs": "file",
+        "eslint.config.mjs": "file",
+        "eslint.config.ts": "file",
+        "eslint.config.cts": "file",
+        "eslint.config.mts": "file",
+        "exe": "file",
+        "msi": "file",
+        "fastfile": "file",
+        "appfile": "file",
+        "snapfile": "file",
+        "matchfile": "file",
+        "deliverfile": "file",
+        "scanfile": "file",
+        "gymfile": "file",
+        "favicon.ico": "file",
+        "fig": "file",
+        "firebase.json": "file",
+        ".firebaserc": "file",
+        "firestore.rules": "file",
+        "storage.rules": "file",
+        "firestore.indexes.json": "file",
+        ".flutter-plugins": "file",
+        ".flutter-plugins-dependencies": "file",
+        ".metadata": "file",
+        "woff": "file",
+        "woff2": "file",
+        "ttf": "file",
+        "eot": "file",
+        "suit": "file",
+        "otf": "file",
+        "bmap": "file",
+        "fnt": "file",
+        "odttf": "file",
+        "ttc": "file",
+        "font": "file",
+        "fonts": "file",
+        "sui": "file",
+        "ntf": "file",
+        "mrf": "file",
+        "foreman.toml": "file",
+        "aftman.toml": "file",
+        "f": "file",
+        "f77": "file",
+        "f90": "file",
+        "f95": "file",
+        "f03": "file",
+        "f08": "file",
+        "for": "file",
+        "fs": "file",
+        "fsx": "file",
+        "fsi": "file",
+        ".fvmrc": "file",
+        "fvm_config.json": "file",
+        "gatsby-config.js": "file",
+        "gatsby-config.mjs": "file",
+        "gatsby-config.ts": "file",
+        "gatsby-node.js": "file",
+        "gatsby-node.mjs": "file",
+        "gatsby-node.ts": "file",
+        "gatsby-browser.js": "file",
+        "gatsby-browser.tsx": "file",
+        "gatsby-ssr.js": "file",
+        "gatsby-ssr.tsx": "file",
+        "release-please-config.json": "file",
+        ".release-please-manifest.json": "file",
+        "cliff.toml": "file",
+        ".git": "file",
+        ".gitignore": "file",
+        ".gitmessage": "file",
+        ".gitignore-global": "file",
+        ".gitignore_global": "file",
+        ".gitattributes": "file",
+        ".gitattributes-global": "file",
+        ".gitattributes_global": "file",
+        ".gitconfig": "file",
+        ".gitmodules": "file",
+        ".gitkeep": "file",
+        ".keep": "file",
+        ".gitpreserve": "file",
+        ".gitinclude": "file",
+        ".git-blame-ignore": "file",
+        ".git-blame-ignore-revs": "file",
+        ".git-for-windows-updater": "file",
+        "git-history": "file",
+        "patch": "file",
+        "gitlab-ci.yml": "file",
+        "gitlab-ci.yaml": "file",
+        ".gitpod.yml": "file",
+        "gleam.toml": "file",
+        "gleam": "file",
+        "go.mod": "file",
+        "go.sum": "file",
+        "go.work": "file",
+        "go.work.sum": "file",
+        "tmpl": "file",
+        "templ": "file",
+        "gotmpl": "file",
+        "gohtml": "file",
+        "go.tmp": "file",
+        "go.html": "file",
+        "go": "file",
+        ".gdignore": "file",
+        "._sc_": "file",
+        "_sc_": "file",
+        "godot": "file",
+        "tres": "file",
+        "tscn": "file",
+        "gdns": "file",
+        "gdnlib": "file",
+        "gdshader": "file",
+        "gdshaderinc": "file",
+        "gdextension": "file",
+        "gd.uid": "file",
+        "gd": "file",
+        "gradle.properties": "file",
+        "gradlew": "file",
+        "gradle-wrapper.properties": "file",
+        "gradle": "file",
+        ".graphqlconfig": "file",
+        ".graphqlrc": "file",
+        ".graphqlrc.json": "file",
+        ".graphqlrc.js": "file",
+        ".graphqlrc.cjs": "file",
+        ".graphqlrc.ts": "file",
+        ".graphqlrc.toml": "file",
+        ".graphqlrc.yaml": "file",
+        ".graphqlrc.yml": "file",
+        "graphql.config.json": "file",
+        "graphql.config.js": "file",
+        "graphql.config.cjs": "file",
+        "graphql.config.ts": "file",
+        "graphql.config.toml": "file",
+        "graphql.config.yaml": "file",
+        "graphql.config.yml": "file",
+        "graphql": "file",
+        "gql": "file",
+        "groovy": "file",
+        "gulpfile.js": "file",
+        "gulpfile.mjs": "file",
+        "gulpfile.ts": "file",
+        "gulpfile.cts": "file",
+        "gulpfile.mts": "file",
+        "gulpfile.babel.js": "file",
+        "hacking.md": "file",
+        "hacking.txt": "file",
+        "hacking": "file",
+        "haml": "file",
+        "hbs": "file",
+        "mustache": "file",
+        "hardhat.config.js": "file",
+        "hardhat.config.ts": "file",
+        "ha": "file",
+        "hs": "file",
+        "hx": "file",
+        ".helmignore": "file",
+        "chart.lock": "file",
+        "procfile": "file",
+        "histoire.config.ts": "file",
+        "histoire.config.js": "file",
+        ".histoire.js": "file",
+        ".histoire.ts": "file",
+        "htm": "file",
+        "html": "file",
+        "xhtml": "file",
+        "html_vm": "file",
+        "asp": "file",
+        "CNAME": "file",
+        "http": "file",
+        "rest": "file",
+        "huff": "file",
+        "hugo.toml": "file",
+        "hugo.yaml": "file",
+        "hugo.json": "file",
+        "humans.txt": "file",
+        ".huskyrc": "file",
+        "husky.config.js": "file",
+        ".huskyrc.json": "file",
+        ".huskyrc.js": "file",
+        ".huskyrc.yaml": "file",
+        ".huskyrc.yml": "file",
+        "png": "file",
+        "jpeg": "file",
+        "jpg": "file",
+        "gif": "file",
+        "ico": "file",
+        "tif": "file",
+        "tiff": "file",
+        "ami": "file",
+        "apx": "file",
+        "avif": "file",
+        "bmp": "file",
+        "bpg": "file",
+        "brk": "file",
+        "cur": "file",
+        "dds": "file",
+        "dng": "file",
+        "exr": "file",
+        "fpx": "file",
+        "gbr": "file",
+        "img": "file",
+        "jbig2": "file",
+        "jb2": "file",
+        "jng": "file",
+        "jxr": "file",
+        "pgf": "file",
+        "pic": "file",
+        "raw": "file",
+        "webp": "file",
+        "eps": "file",
+        "afphoto": "file",
+        "ase": "file",
+        "aseprite": "file",
+        "clip": "file",
+        "cpt": "file",
+        "heif": "file",
+        "heic": "file",
+        "kra": "file",
+        "mdp": "file",
+        "ora": "file",
+        "pdn": "file",
+        "reb": "file",
+        "sai": "file",
+        "tga": "file",
+        "xcf": "file",
+        "jfif": "file",
+        "ppm": "file",
+        "pbm": "file",
+        "pgm": "file",
+        "pnm": "file",
+        "icns": "file",
+        "ionic.config.json": "file",
+        ".io-config.json": "file",
+        "class": "file",
+        "jar": "file",
+        "java": "file",
+        "jsp": "file",
+        "jsconfig.json": "file",
+        "js.map": "file",
+        "mjs.map": "file",
+        "cjs.map": "file",
+        "jsx": "file",
+        "spec.js": "file",
+        "spec.cjs": "file",
+        "spec.mjs": "file",
+        "e2e-spec.js": "file",
+        "e2e-spec.cjs": "file",
+        "e2e-spec.mjs": "file",
+        "test.js": "file",
+        "test.cjs": "file",
+        "test.mjs": "file",
+        "js.snap": "file",
+        "cy.js": "file",
+        "spec.jsx": "file",
+        "test.jsx": "file",
+        "jsx.snap": "file",
+        "cy.jsx": "file",
+        "esx": "file",
+        "js": "file",
+        "cjs": "file",
+        "mjs": "file",
+        "jest.config.js": "file",
+        "jest.config.cjs": "file",
+        "jest.config.mjs": "file",
+        "jest.config.ts": "file",
+        "jest.config.cts": "file",
+        "jest.config.mts": "file",
+        "jest.config.json": "file",
+        "jest.e2e.config.js": "file",
+        "jest.e2e.config.cjs": "file",
+        "jest.e2e.config.mjs": "file",
+        "jest.e2e.config.ts": "file",
+        "jest.e2e.config.cts": "file",
+        "jest.e2e.config.mts": "file",
+        "jest.e2e.config.json": "file",
+        "jest.e2e.json": "file",
+        "jest-unit.config.js": "file",
+        "jest-e2e.config.js": "file",
+        "jest-e2e.config.cjs": "file",
+        "jest-e2e.config.mjs": "file",
+        "jest-e2e.config.ts": "file",
+        "jest-e2e.config.cts": "file",
+        "jest-e2e.config.mts": "file",
+        "jest-e2e.config.json": "file",
+        "jest-e2e.json": "file",
+        "jest-github-actions-reporter.js": "file",
+        "jest.setup.js": "file",
+        "jest.setup.ts": "file",
+        "jest.json": "file",
+        ".jestrc": "file",
+        ".jestrc.js": "file",
+        ".jestrc.json": "file",
+        "jest.teardown.js": "file",
+        "jest-preset.json": "file",
+        "jest-preset.js": "file",
+        "jest-preset.cjs": "file",
+        "jest-preset.mjs": "file",
+        "jest.preset.js": "file",
+        "jest.preset.mjs": "file",
+        "jest.preset.cjs": "file",
+        "jest.preset.json": "file",
+        "jinja": "file",
+        "jinja2": "file",
+        "j2": "file",
+        "jinja-html": "file",
+        "schema.json": "file",
+        ".jscsrc": "file",
+        ".jshintrc": "file",
+        "composer.lock": "file",
+        ".jsbeautifyrc": "file",
+        ".esformatter": "file",
+        "cdp.pid": "file",
+        ".lintstagedrc": "file",
+        ".whitesource": "file",
+        "json": "file",
+        "jsonc": "file",
+        "tsbuildinfo": "file",
+        "json5": "file",
+        "jsonl": "file",
+        "ndjson": "file",
+        "hjson": "file",
+        "webmanifest": "file",
+        "jucer": "file",
+        "jule.mod": "file",
+        "jule": "file",
+        "jl": "file",
+        "ipynb": "file",
+        "justfile": "file",
+        ".justfile": "file",
+        "just": "file",
+        "kdl": "file",
+        ".htpasswd": "file",
+        "pub": "file",
+        "key": "file",
+        "pem": "file",
+        "gpg": "file",
+        "passwd": "file",
+        "keystore": "file",
+        "knip.json": "file",
+        "knip.jsonc": "file",
+        ".knip.jsonc": "file",
+        "knip.ts": "file",
+        "knip.js": "file",
+        "knip.config.ts": "file",
+        "knip.config.js": "file",
+        "kt": "file",
+        "kts": "file",
+        "artisan": "file",
+        "blade.php": "file",
+        "inky.php": "file",
+        "tex": "file",
+        "sty": "file",
+        "dtx": "file",
+        "ltx": "file",
+        "latte": "file",
+        "lerna.json": "file",
+        "less": "file",
+        "lib": "file",
+        "bib": "file",
+        "copying": "file",
+        "copying.md": "file",
+        "copying.rst": "file",
+        "copying.txt": "file",
+        "copyright": "file",
+        "copyright.md": "file",
+        "copyright.rst": "file",
+        "copyright.txt": "file",
+        "license": "file",
+        "license-agpl": "file",
+        "license-apache": "file",
+        "license-bsd": "file",
+        "license-mit": "file",
+        "license-gpl": "file",
+        "license-lgpl": "file",
+        "unlicense": "file",
+        "license.md": "file",
+        "license.rst": "file",
+        "license.txt": "file",
+        "licence": "file",
+        "licence-agpl": "file",
+        "licence-apache": "file",
+        "licence-bsd": "file",
+        "licence-mit": "file",
+        "licence-gpl": "file",
+        "licence-lgpl": "file",
+        "unlicence": "file",
+        "licence.md": "file",
+        "licence.rst": "file",
+        "licence.txt": "file",
+        ".lintstagedrc.json": "file",
+        ".lintstagedrc.yaml": "file",
+        ".lintstagedrc.yml": "file",
+        ".lintstagedrc.mjs": "file",
+        ".lintstagedrc.mts": "file",
+        ".lintstagedrc.cjs": "file",
+        ".lintstagedrc.cts": "file",
+        ".lintstagedrc.js": "file",
+        ".lintstagedrc.ts": "file",
+        "lint-staged.config.js": "file",
+        "lint-staged.config.ts": "file",
+        "lint-staged.config.mjs": "file",
+        "lint-staged.config.mts": "file",
+        "lint-staged.config.cjs": "file",
+        "lint-staged.config.cts": "file",
+        ".liquidrc.json": "file",
+        ".liquidrc": "file",
+        "liquid": "file",
+        "lisp": "file",
+        "lsp": "file",
+        "cl": "file",
+        "fast": "file",
+        "log": "file",
+        ".luacheckrc": "file",
+        "client.lua": "file",
+        ".rock": "file",
+        ".rockspec": "file",
+        "server.lua": "file",
+        "spec.lua": "file",
+        "test.lua": "file",
+        "lua": "file",
+        "selene.toml": "file",
+        "selene.yml": "file",
+        "selene.yaml": "file",
+        "client.luau": "file",
+        ".luaurc": "file",
+        "server.luau": "file",
+        "spec.luau": "file",
+        "test.luau": "file",
+        "luau": "file",
+        ".ds_store": "file",
+        "makefile": "file",
+        "gnumakefile": "file",
+        "kbuild": "file",
+        "mk": "file",
+        "mantle.yml": "file",
+        ".mantle-state.yml": "file",
+        "mdx": "file",
+        "md": "file",
+        "markdown": "file",
+        "rst": "file",
+        "marko": "file",
+        "m": "file",
+        "mat": "file",
+        "book.toml": "file",
+        "mmd": "file",
+        "mermaid": "file",
+        "meson.build": "file",
+        "meson_options.txt": "file",
+        "wrap": "file",
+        "mid": "file",
+        "midi": "file",
+        ".mjmlconfig": "file",
+        "mjml": "file",
+        ".modernizrrc": "file",
+        ".modernizrrc.js": "file",
+        ".modernizrrc.json": "file",
+        "moon.yml": "file",
+        "moon.yaml": "file",
+        "moonwave.toml": "file",
+        "xlsx": "file",
+        "xlsm": "file",
+        "xls": "file",
+        "xlsb": "file",
+        "xltx": "file",
+        "xltm": "file",
+        "xlt": "file",
+        "ods": "file",
+        "pptx": "file",
+        "ppt": "file",
+        "pptm": "file",
+        "potx": "file",
+        "potm": "file",
+        "ppsx": "file",
+        "ppsm": "file",
+        "pps": "file",
+        "ppam": "file",
+        "ppa": "file",
+        "odp": "file",
+        "doc": "file",
+        "docm": "file",
+        "docx": "file",
+        "dot": "file",
+        "dotm": "file",
+        "dotx": "file",
+        "rtf": "file",
+        "odt": "file",
+        "directory.build.props": "file",
+        "directory.build.rsp": "file",
+        "directory.build.targets": "file",
+        "directory.packages.props": "file",
+        "nativescript.config.ts": "file",
+        "nativescript.config.js": "file",
+        "nest-cli.json": "file",
+        ".nest-cli.json": "file",
+        "nestconfig.json": "file",
+        ".nestconfig.json": "file",
+        "netlify.json": "file",
+        "netlify.yml": "file",
+        "netlify.yaml": "file",
+        "netlify.toml": "file",
+        "next.config.js": "file",
+        "next.config.mjs": "file",
+        "next.config.ts": "file",
+        "next.config.mts": "file",
+        "nf": "file",
+        "nginx.conf": "file",
+        "nginx": "file",
+        "nginxconf": "file",
+        "nginxconfig": "file",
+        "nim": "file",
+        "nimble": "file",
+        "ninja": "file",
+        "flake.lock": "file",
+        "nix": "file",
+        "nodemon.json": "file",
+        "nodemon-debug.json": "file",
+        ".npmignore": "file",
+        "package-lock.json": "file",
+        ".npmrc": "file",
+        "nuget.config": "file",
+        ".nuspec": "file",
+        "nuget.exe": "file",
+        "nupkg": "file",
+        "njk": "file",
+        "nunjucks": "file",
+        ".nuxtignore": "file",
+        ".nuxtrc": "file",
+        "nuxt.config.js": "file",
+        "nuxt.config.ts": "file",
+        ".nxignore": "file",
+        "nx.json": "file",
+        "ml": "file",
+        "mli": "file",
+        "cmx": "file",
+        "odin": "file",
+        "tofu": "file",
+        "tofu.json": "file",
+        "org": "file",
+        "package.json": "file",
+        ".nvmrc": "file",
+        ".esmrc": "file",
+        ".node-version": "file",
+        "panda.config.ts": "file",
+        "panda.config.js": "file",
+        "panda.config.mjs": "file",
+        "panda.config.mts": "file",
+        "panda.config.cjs": "file",
+        "pdf": "file",
+        "pl": "file",
+        "pm": "file",
+        "pod": "file",
+        "t": "file",
+        "psgi": "file",
+        "raku": "file",
+        "rakumod": "file",
+        "rakutest": "file",
+        "rakudoc": "file",
+        "nqp": "file",
+        "p6": "file",
+        "pl6": "file",
+        "pm6": "file",
+        "pesde.lock": "file",
+        "pesde.toml": "file",
+        "php": "file",
+        ".phrase.yml": "file",
+        ".phraseapp.yml": "file",
+        ".phrase.yaml": "file",
+        ".phraseapp.yaml": "file",
+        "phtml": "file",
+        "pixi.lock": "file",
+        "pixi.toml": "file",
+        "pu": "file",
+        "puml": "file",
+        "plantuml": "file",
+        "playwright.config.js": "file",
+        "playwright.config.mjs": "file",
+        "playwright.config.ts": "file",
+        "playwright.config.base.js": "file",
+        "playwright.config.base.mjs": "file",
+        "playwright.config.base.ts": "file",
+        "playwright-ct.config.js": "file",
+        "playwright-ct.config.mjs": "file",
+        "playwright-ct.config.ts": "file",
+        "plopfile.js": "file",
+        "plopfile.cjs": "file",
+        "plopfile.mjs": "file",
+        "plopfile.ts": "file",
+        "pnpm-lock.yaml": "file",
+        "pnpm-workspace.yaml": "file",
+        ".pnpmfile.cjs": "file",
+        "poetry.lock": "file",
+        "postcss.config.js": "file",
+        "postcss.config.cjs": "file",
+        "postcss.config.mjs": "file",
+        "postcss.config.ts": "file",
+        "postcss.config.cts": "file",
+        "postcss.config.mts": "file",
+        ".postcssrc.js": "file",
+        ".postcssrc.cjs": "file",
+        ".postcssrc.ts": "file",
+        ".postcssrc.cts": "file",
+        ".postcssrc": "file",
+        ".postcssrc.json": "file",
+        ".postcssrc.yaml": "file",
+        ".postcssrc.yml": "file",
+        "pcss": "file",
+        "sss": "file",
+        "ps1": "file",
+        "psm1": "file",
+        "psd1": "file",
+        "ps1xml": "file",
+        "psc1": "file",
+        "pssc": "file",
+        ".pre-commit-config.yaml": "file",
+        ".pre-commit-hooks.yaml": "file",
+        "premake4.lua": "file",
+        "premake5.lua": "file",
+        "premake.lua": "file",
+        ".prettierignore": "file",
+        ".prettierrc": "file",
+        ".prettierrc.json": "file",
+        ".prettierrc.yml": "file",
+        ".prettierrc.yaml": "file",
+        ".prettierrc.json5": "file",
+        ".prettierrc.js": "file",
+        "prettier.config.js": "file",
+        ".prettierrc.ts": "file",
+        "prettier.config.ts": "file",
+        ".prettierrc.mjs": "file",
+        "prettier.config.mjs": "file",
+        ".prettierrc.mts": "file",
+        "prettier.config.mts": "file",
+        ".prettierrc.cjs": "file",
+        "prettier.config.cjs": "file",
+        ".prettierrc.cts": "file",
+        "prettier.config.cts": "file",
+        ".prettierrc.toml": "file",
+        "prisma.config.ts": "file",
+        "prisma.config.js": "file",
+        "prisma.config.cts": "file",
+        "prisma.config.cjs": "file",
+        "prisma.config.mts": "file",
+        "prisma.config.mjs": "file",
+        "prisma.yml": "file",
+        "prisma": "file",
+        "p": "file",
+        "pro": "file",
+        "ini": "file",
+        "dlc": "file",
+        "config": "file",
+        "conf": "file",
+        "properties": "file",
+        "prop": "file",
+        "settings": "file",
+        "option": "file",
+        "props": "file",
+        "prefs": "file",
+        "sln.dotsettings": "file",
+        "sln.dotsettings.user": "file",
+        "cfg": "file",
+        "proto": "file",
+        ".prototools": "file",
+        ".pug-lintrc": "file",
+        ".pug-lintrc.js": "file",
+        ".pug-lintrc.json": "file",
+        "jade": "file",
+        "pug": "file",
+        "pp": "file",
+        "epp": "file",
+        ".puppeteerrc.cjs,": "file",
+        ".puppeteerrc.js,": "file",
+        ".puppeteerrc": "file",
+        ".puppeteerrc.json,": "file",
+        ".puppeteerrc.yaml,": "file",
+        "puppeteer.config.js": "file",
+        "puppeteer.config.cjs": "file",
+        "pyc": "file",
+        "pyo": "file",
+        "pyd": "file",
+        "pyproject.toml": "file",
+        "requirements.txt": "file",
+        "requirements-dev.txt": "file",
+        "requirements-test.txt": "file",
+        ".python-version": "file",
+        "py": "file",
+        ".rhistory": "file",
+        "r": "file",
+        "rkt": "file",
+        "cshtml": "file",
+        "vbhtml": "file",
+        "rdata": "file",
+        "readme.md": "file",
+        "readme.rst": "file",
+        "readme.txt": "file",
+        "readme": "file",
+        "re": "file",
+        "rei": "file",
+        "redwood.toml": "file",
+        ".goreleaser.yaml": "file",
+        "remix.config.js": "file",
+        "remix.config.ts": "file",
+        ".renovaterc": "file",
+        ".renovaterc.json": "file",
+        "renovate-config.json": "file",
+        "renovate.json": "file",
+        "renovate.json5": "file",
+        "res": "file",
+        "rmd": "file",
+        "rbxl": "file",
+        "rbxlx": "file",
+        "rbxm": "file",
+        "rbxmx": "file",
+        "robots.txt": "file",
+        "rocket.toml": "file",
+        "rokit.toml": "file",
+        "rollup.config.js": "file",
+        "rollup.config.mjs": "file",
+        "rollup.config.ts": "file",
+        "rollup-config.js": "file",
+        "rollup-config.mjs": "file",
+        "rollup-config.ts": "file",
+        "rollup.config.common.js": "file",
+        "rollup.config.common.mjs": "file",
+        "rollup.config.common.ts": "file",
+        "rollup.config.base.js": "file",
+        "rollup.config.base.mjs": "file",
+        "rollup.config.base.ts": "file",
+        "rollup.config.prod.js": "file",
+        "rollup.config.prod.mjs": "file",
+        "rollup.config.prod.ts": "file",
+        "rollup.config.dev.js": "file",
+        "rollup.config.dev.mjs": "file",
+        "rollup.config.dev.ts": "file",
+        "rollup.config.prod.vendor.js": "file",
+        "rollup.config.prod.vendor.mjs": "file",
+        "rollup.config.prod.vendor.ts": "file",
+        "rproj": "file",
+        "rsml": "file",
+        "gemfile.lock": "file",
+        "gemfile": "file",
+        ".ruby-version": "file",
+        "rb": "file",
+        "erb": "file",
+        "rbs": "file",
+        "ruff.toml": "file",
+        ".ruff.toml": "file",
+        "rustfmt.toml": "file",
+        ".rustfmt.toml": "file",
+        "rust-toolchain.toml": "file",
+        "clippy.toml": "file",
+        "rs": "file",
+        "ron": "file",
+        "cls": "file",
+        "scss": "file",
+        "sass": "file",
+        "scala": "file",
+        "sc": "file",
+        "scm": "file",
+        "code-search": "file",
+        "security.md": "file",
+        "security.txt": "file",
+        "security": "file",
+        ".releaserc": "file",
+        ".releaserc.yaml": "file",
+        ".releaserc.yml": "file",
+        ".releaserc.json": "file",
+        ".releaserc.js": "file",
+        ".releaserc.cjs": "file",
+        "release.config.js": "file",
+        "release.config.cjs": "file",
+        ".semgrepignore": "file",
+        "semgrep.yml": "file",
+        ".sentryclirc": "file",
+        "serverless.yml": "file",
+        "serverless.yaml": "file",
+        "serverless.json": "file",
+        "serverless.js": "file",
+        "serverless.ts": "file",
+        "glsl": "file",
+        "vert": "file",
+        "tesc": "file",
+        "tese": "file",
+        "geom": "file",
+        "frag": "file",
+        "comp": "file",
+        "vert.glsl": "file",
+        "tesc.glsl": "file",
+        "tese.glsl": "file",
+        "geom.glsl": "file",
+        "frag.glsl": "file",
+        "comp.glsl": "file",
+        "vertex.glsl": "file",
+        "geometry.glsl": "file",
+        "fragment.glsl": "file",
+        "compute.glsl": "file",
+        "ts.glsl": "file",
+        "gs.glsl": "file",
+        "vs.glsl": "file",
+        "fs.glsl": "file",
+        "shader": "file",
+        "vertexshader": "file",
+        "fragmentshader": "file",
+        "geometryshader": "file",
+        "computeshader": "file",
+        "hlsl": "file",
+        "pixel.hlsl": "file",
+        "geometry.hlsl": "file",
+        "compute.hlsl": "file",
+        "tessellation.hlsl": "file",
+        "px.hlsl": "file",
+        "geom.hlsl": "file",
+        "comp.hlsl": "file",
+        "tess.hlsl": "file",
+        "wgsl": "file",
+        "sketch": "file",
+        "sdf": "file",
+        "sdt": "file",
+        "snowpack.config.js": "file",
+        "snowpack.config.cjs": "file",
+        "snowpack.config.mjs": "file",
+        "snowpack.config.ts": "file",
+        "snowpack.config.cts": "file",
+        "snowpack.config.mts": "file",
+        "snowpack.deps.json": "file",
+        "snowpack.config.json": "file",
+        "sol": "file",
+        "sonar-project.properties": "file",
+        ".sonarcloud.properties": "file",
+        "sonarcloud.yaml": "file",
+        "spwn": "file",
+        "nut": "file",
+        ".stackblitzrc": "file",
+        "ado": "file",
+        "do": "file",
+        "dta": "file",
+        "stencil.config.js": "file",
+        "stencil.config.ts": "file",
+        "stitches.config.js": "file",
+        "stitches.config.ts": "file",
+        "story.svelte": "file",
+        "stories.svelte": "file",
+        "story.vue": "file",
+        "stories.vue": "file",
+        "stories.js": "file",
+        "stories.jsx": "file",
+        "stories.mdx": "file",
+        "story.js": "file",
+        "story.jsx": "file",
+        "stories.ts": "file",
+        "stories.tsx": "file",
+        "story.ts": "file",
+        "story.tsx": "file",
+        "story.mdx": "file",
+        ".stylelintignore": "file",
+        ".stylelintcache": "file",
+        ".stylelintrc": "file",
+        "stylelint.config.js": "file",
+        "stylelint.config.ts": "file",
+        "stylelint.config.cjs": "file",
+        "stylelint.config.cts": "file",
+        "stylelint.config.mjs": "file",
+        "stylelint.config.mts": "file",
+        ".stylelintrc.json": "file",
+        ".stylelintrc.yaml": "file",
+        ".stylelintrc.yml": "file",
+        ".stylelintrc.js": "file",
+        ".stylelintrc.ts": "file",
+        ".stylelintrc.cjs": "file",
+        ".stylelintrc.cts": "file",
+        ".stylelintrc.mjs": "file",
+        ".stylelintrc.mts": "file",
+        ".styluaignore": "file",
+        "stylua.toml": "file",
+        "sublime-project": "file",
+        "sublime-workspace": "file",
+        "scd": "file",
+        "svelte.config.js": "file",
+        "svelte.config.ts": "file",
+        "svelte.config.cjs": "file",
+        "svelte.config.mjs": "file",
+        "svelte": "file",
+        "svg": "file",
+        "swift": "file",
+        ".swiftformat": "file",
+        "tailwind.js": "file",
+        "tailwind.ts": "file",
+        "tailwind.config.js": "file",
+        "tailwind.config.cjs": "file",
+        "tailwind.config.mjs": "file",
+        "tailwind.config.ts": "file",
+        "tailwind.config.cts": "file",
+        "tailwind.config.mts": "file",
+        "taskfile.yml": "file",
+        "taskfile.yaml": "file",
+        "taskfile.dist.yml": "file",
+        "taskfile.dist.yaml": "file",
+        ".taskrc.yml": "file",
+        ".taskrc.yaml": "file",
+        ".taurignore": "file",
+        "tauri.conf.json": "file",
+        "tauri.conf.json5": "file",
+        "tauri.config.json": "file",
+        "tauri.linux.conf.json": "file",
+        "tauri.windows.conf.json": "file",
+        "tauri.macos.conf.json": "file",
+        "Tauri.toml": "file",
+        "tauri": "file",
+        "tf": "file",
+        "tf.json": "file",
+        "tfvars": "file",
+        "tfstate": "file",
+        "tfbackend": "file",
+        "txt": "file",
+        "todo.md": "file",
+        "todos.md": "file",
+        "todo": "file",
+        "toml": "file",
+        "turbo.json": "file",
+        "twig": "file",
+        "tw": "file",
+        "twee": "file",
+        "tsconfig.json": "file",
+        "tsconfig.app.json": "file",
+        "tsconfig.editor.json": "file",
+        "tsconfig.spec.json": "file",
+        "tsconfig.base.json": "file",
+        "tsconfig.build.json": "file",
+        "tsconfig.eslint.json": "file",
+        "tsconfig.lib.json": "file",
+        "tsconfig.lib.prod.json": "file",
+        "tsconfig.node.json": "file",
+        "tsconfig.test.json": "file",
+        "tsconfig.e2e.json": "file",
+        "tsconfig.web.json": "file",
+        "tsconfig.webworker.json": "file",
+        "tsconfig.worker.json": "file",
+        "tsconfig.config.json": "file",
+        "tsconfig.vitest.json": "file",
+        "tsconfig.cjs.json": "file",
+        "tsconfig.esm.json": "file",
+        "tsconfig.mjs.json": "file",
+        "tsconfig.doc.json": "file",
+        "tsconfig.paths.json": "file",
+        "tsconfig.main.json": "file",
+        "tsconfig.cypress-ct.json": "file",
+        "tsconfig.components.json": "file",
+        "d.ts": "file",
+        "d.cts": "file",
+        "d.mts": "file",
+        "tsx": "file",
+        "spec.ts": "file",
+        "spec.cts": "file",
+        "spec.mts": "file",
+        "cy.ts": "file",
+        "e2e-spec.ts": "file",
+        "e2e-spec.cts": "file",
+        "e2e-spec.mts": "file",
+        "test.ts": "file",
+        "test.cts": "file",
+        "test.mts": "file",
+        "ts.snap": "file",
+        "spec-d.ts": "file",
+        "test-d.ts": "file",
+        "spec.tsx": "file",
+        "test.tsx": "file",
+        "tsx.snap": "file",
+        "cy.tsx": "file",
+        "ts": "file",
+        "cts": "file",
+        "mts": "file",
+        "typst.toml": "file",
+        "typ": "file",
+        "unity": "file",
+        "uno.config.js": "file",
+        "uno.config.mjs": "file",
+        "uno.config.ts": "file",
+        "uno.config.mts": "file",
+        "unocss.config.js": "file",
+        "unocss.config.mjs": "file",
+        "unocss.config.ts": "file",
+        "unocss.config.mts": "file",
+        "url": "file",
+        "uv.lock": "file",
+        "vpkg.json": "file",
+        "v.mod": "file",
+        "v": "file",
+        "vala": "file",
+        "css.ts": "file",
+        "vapi": "file",
+        "vto": "file",
+        ".vercelignore": "file",
+        ".nowignore": "file",
+        "vercel.json": "file",
+        "now.json": "file",
+        "vhd": "file",
+        "sv": "file",
+        "svh": "file",
+        "tape": "file",
+        "webm": "file",
+        "mkv": "file",
+        "flv": "file",
+        "vob": "file",
+        "ogv": "file",
+        "ogg": "file",
+        "gifv": "file",
+        "avi": "file",
+        "mov": "file",
+        "qt": "file",
+        "wmv": "file",
+        "yuv": "file",
+        "rm": "file",
+        "rmvb": "file",
+        "mp4": "file",
+        "m4v": "file",
+        "mpg": "file",
+        "mp2": "file",
+        "mpeg": "file",
+        "mpe": "file",
+        "mpv": "file",
+        "m2v": "file",
+        "vimrc": "file",
+        "gvimrc": "file",
+        "exrc": "file",
+        "vim": "file",
+        "viminfo": "file",
+        "csproj": "file",
+        "csproj.user": "file",
+        "vbproj": "file",
+        "vbproj.user": "file",
+        "fsproj": "file",
+        "fsproj.user": "file",
+        "ruleset": "file",
+        "sln": "file",
+        "slnf": "file",
+        "slnx": "file",
+        "suo": "file",
+        "vb": "file",
+        "vbs": "file",
+        "vcxitems": "file",
+        "vcxitems.filters": "file",
+        "vcxproj": "file",
+        "vcxproj.filters": "file",
+        "vital": "file",
+        "vitalbank": "file",
+        "vitallfo": "file",
+        "vitalskin": "file",
+        "vitaltable": "file",
+        "vitaltheme": "file",
+        "vite.config.js": "file",
+        "vite.config.mjs": "file",
+        "vite.config.cjs": "file",
+        "vite.config.ts": "file",
+        "vite.config.cts": "file",
+        "vite.config.mts": "file",
+        "vitest.config.ts": "file",
+        "vitest.config.mts": "file",
+        "vitest.config.cts": "file",
+        "vitest.config.js": "file",
+        "vitest.config.mjs": "file",
+        "vitest.config.cjs": "file",
+        "vitest.workspace.js": "file",
+        "vitest.workspace.ts": "file",
+        "vitest.workspace.json": "file",
+        ".vscodeignore": "file",
+        "vsixmanifest": "file",
+        "vsix": "file",
+        "code-workplace": "file",
+        "code-workspace": "file",
+        "code-profile": "file",
+        "code-snippets": "file",
+        "vue.config.js": "file",
+        "vue.config.cjs": "file",
+        "vue.config.mjs": "file",
+        "vue.config.ts": "file",
+        "vue.config.cts": "file",
+        "vue.config.mts": "file",
+        ".vuerc": "file",
+        "vue": "file",
+        "wally.toml": "file",
+        "wally.lock": "file",
+        "wat": "file",
+        "wasm": "file",
+        "webpack.js": "file",
+        "webpack.cjs": "file",
+        "webpack.mjs": "file",
+        "webpack.ts": "file",
+        "webpack.cts": "file",
+        "webpack.mts": "file",
+        "webpack.base.js": "file",
+        "webpack.base.cjs": "file",
+        "webpack.base.mjs": "file",
+        "webpack.base.ts": "file",
+        "webpack.base.cts": "file",
+        "webpack.base.mts": "file",
+        "webpack.config.js": "file",
+        "webpack.config.cjs": "file",
+        "webpack.config.mjs": "file",
+        "webpack.config.ts": "file",
+        "webpack.config.cts": "file",
+        "webpack.config.mts": "file",
+        "webpack.common.js": "file",
+        "webpack.common.cjs": "file",
+        "webpack.common.mjs": "file",
+        "webpack.common.ts": "file",
+        "webpack.common.cts": "file",
+        "webpack.common.mts": "file",
+        "webpack.config.common.js": "file",
+        "webpack.config.common.cjs": "file",
+        "webpack.config.common.mjs": "file",
+        "webpack.config.common.ts": "file",
+        "webpack.config.common.cts": "file",
+        "webpack.config.common.mts": "file",
+        "webpack.config.common.babel.js": "file",
+        "webpack.config.common.babel.ts": "file",
+        "webpack.dev.js": "file",
+        "webpack.dev.cjs": "file",
+        "webpack.dev.mjs": "file",
+        "webpack.dev.ts": "file",
+        "webpack.dev.cts": "file",
+        "webpack.dev.mts": "file",
+        "webpack.development.js": "file",
+        "webpack.development.cjs": "file",
+        "webpack.development.mjs": "file",
+        "webpack.development.ts": "file",
+        "webpack.development.cts": "file",
+        "webpack.development.mts": "file",
+        "webpack.config.dev.js": "file",
+        "webpack.config.dev.cjs": "file",
+        "webpack.config.dev.mjs": "file",
+        "webpack.config.dev.ts": "file",
+        "webpack.config.dev.cts": "file",
+        "webpack.config.dev.mts": "file",
+        "webpack.config.dev.babel.js": "file",
+        "webpack.config.dev.babel.ts": "file",
+        "webpack.config.main.js": "file",
+        "webpack.config.renderer.ts": "file",
+        "webpack.mix.js": "file",
+        "webpack.mix.cjs": "file",
+        "webpack.mix.mjs": "file",
+        "webpack.mix.ts": "file",
+        "webpack.mix.cts": "file",
+        "webpack.mix.mts": "file",
+        "webpack.prod.js": "file",
+        "webpack.prod.cjs": "file",
+        "webpack.prod.mjs": "file",
+        "webpack.prod.ts": "file",
+        "webpack.prod.cts": "file",
+        "webpack.prod.mts": "file",
+        "webpack.prod.config.js": "file",
+        "webpack.prod.config.cjs": "file",
+        "webpack.prod.config.mjs": "file",
+        "webpack.prod.config.ts": "file",
+        "webpack.prod.config.cts": "file",
+        "webpack.prod.config.mts": "file",
+        "webpack.production.js": "file",
+        "webpack.production.cjs": "file",
+        "webpack.production.mjs": "file",
+        "webpack.production.ts": "file",
+        "webpack.production.cts": "file",
+        "webpack.production.mts": "file",
+        "webpack.server.js": "file",
+        "webpack.server.cjs": "file",
+        "webpack.server.mjs": "file",
+        "webpack.server.ts": "file",
+        "webpack.server.cts": "file",
+        "webpack.server.mts": "file",
+        "webpack.client.js": "file",
+        "webpack.client.cjs": "file",
+        "webpack.client.mjs": "file",
+        "webpack.client.ts": "file",
+        "webpack.client.cts": "file",
+        "webpack.client.mts": "file",
+        "webpack.config.server.js": "file",
+        "webpack.config.server.cjs": "file",
+        "webpack.config.server.mjs": "file",
+        "webpack.config.server.ts": "file",
+        "webpack.config.server.cts": "file",
+        "webpack.config.server.mts": "file",
+        "webpack.config.client.js": "file",
+        "webpack.config.client.cjs": "file",
+        "webpack.config.client.mjs": "file",
+        "webpack.config.client.ts": "file",
+        "webpack.config.client.cts": "file",
+        "webpack.config.client.mts": "file",
+        "webpack.config.production.babel.js": "file",
+        "webpack.config.production.babel.ts": "file",
+        "webpack.config.prod.babel.js": "file",
+        "webpack.config.prod.babel.cjs": "file",
+        "webpack.config.prod.babel.mjs": "file",
+        "webpack.config.prod.babel.ts": "file",
+        "webpack.config.prod.babel.cts": "file",
+        "webpack.config.prod.babel.mts": "file",
+        "webpack.config.prod.js": "file",
+        "webpack.config.prod.cjs": "file",
+        "webpack.config.prod.mjs": "file",
+        "webpack.config.prod.ts": "file",
+        "webpack.config.prod.cts": "file",
+        "webpack.config.prod.mts": "file",
+        "webpack.config.production.js": "file",
+        "webpack.config.production.cjs": "file",
+        "webpack.config.production.mjs": "file",
+        "webpack.config.production.ts": "file",
+        "webpack.config.production.cts": "file",
+        "webpack.config.production.mts": "file",
+        "webpack.config.staging.js": "file",
+        "webpack.config.staging.cjs": "file",
+        "webpack.config.staging.mjs": "file",
+        "webpack.config.staging.ts": "file",
+        "webpack.config.staging.cts": "file",
+        "webpack.config.staging.mts": "file",
+        "webpack.config.babel.js": "file",
+        "webpack.config.babel.ts": "file",
+        "webpack.config.base.babel.js": "file",
+        "webpack.config.base.babel.ts": "file",
+        "webpack.config.base.js": "file",
+        "webpack.config.base.cjs": "file",
+        "webpack.config.base.mjs": "file",
+        "webpack.config.base.ts": "file",
+        "webpack.config.base.cts": "file",
+        "webpack.config.base.mts": "file",
+        "webpack.config.staging.babel.js": "file",
+        "webpack.config.staging.babel.ts": "file",
+        "webpack.config.coffee": "file",
+        "webpack.config.test.js": "file",
+        "webpack.config.test.cjs": "file",
+        "webpack.config.test.mjs": "file",
+        "webpack.config.test.ts": "file",
+        "webpack.config.test.cts": "file",
+        "webpack.config.test.mts": "file",
+        "webpack.config.vendor.js": "file",
+        "webpack.config.vendor.cjs": "file",
+        "webpack.config.vendor.mjs": "file",
+        "webpack.config.vendor.ts": "file",
+        "webpack.config.vendor.cts": "file",
+        "webpack.config.vendor.mts": "file",
+        "webpack.config.vendor.production.js": "file",
+        "webpack.config.vendor.production.cjs": "file",
+        "webpack.config.vendor.production.mjs": "file",
+        "webpack.config.vendor.production.ts": "file",
+        "webpack.config.vendor.production.cts": "file",
+        "webpack.config.vendor.production.mts": "file",
+        "webpack.test.js": "file",
+        "webpack.test.cjs": "file",
+        "webpack.test.mjs": "file",
+        "webpack.test.ts": "file",
+        "webpack.test.cts": "file",
+        "webpack.test.mts": "file",
+        "webpack.dist.js": "file",
+        "webpack.dist.cjs": "file",
+        "webpack.dist.mjs": "file",
+        "webpack.dist.ts": "file",
+        "webpack.dist.cts": "file",
+        "webpack.dist.mts": "file",
+        "webpackfile.js": "file",
+        "webpackfile.cjs": "file",
+        "webpackfile.mjs": "file",
+        "webpackfile.ts": "file",
+        "webpackfile.cts": "file",
+        "webpackfile.mts": "file",
+        "windi.config.js": "file",
+        "windi.config.cjs": "file",
+        "windi.config.ts": "file",
+        "windi.config.cts": "file",
+        "windi.config.json": "file",
+        "windi": "file",
+        "workflows/yml": "file",
+        "workflows/yaml": "file",
+        "wrangler.toml": "file",
+        "wrangler.json": "file",
+        "wrangler.jsonc": "file",
+        "wxt.config.js": "file",
+        "wxt.config.ts": "file",
+        "xaml": "file",
+        "axaml": "file",
+        "xcsettings": "file",
+        "xcworkspacedata": "file",
+        "xmake.lua": "file",
+        ".htaccess": "file",
+        "xml": "file",
+        "plist": "file",
+        "xsd": "file",
+        "dtd": "file",
+        "xsl": "file",
+        "xslt": "file",
+        "resx": "file",
+        "iml": "file",
+        "xquery": "file",
+        "tmLanguage": "file",
+        "manifest": "file",
+        "project": "file",
+        "xml.dist": "file",
+        "xml.dist.sample": "file",
+        "dmn": "file",
+        "jrxml": "file",
+        "yml": "file",
+        "yaml": "file",
+        "yarn.lock": "file",
+        ".yarnrc": "file",
+        ".yarnclean": "file",
+        ".yarn-integrity": "file",
+        "yarn-error.log": "file",
+        ".yarnrc.yml": "file",
+        ".yarnrc.yaml": "file",
+        "yarn.config.cjs": "file",
+        "zap": "file",
+        "zig": "file",
+        "7z": "file",
+        "arj": "file",
+        "aseprite-extension": "file",
+        "bz": "file",
+        "bz2": "file",
+        "gz": "file",
+        "paq8n": "file",
+        "paq8o": "file",
+        "pkg": "file",
+        "rar": "file",
+        "tar": "file",
+        "tbz": "file",
+        "tbz2": "file",
+        "tgz": "file",
+        "xz": "file",
+        "z": "file",
+        "zip": "file",
+        "zpaq": "file",
+        "zst": "file",
+        ".bash_history": "file",
+        ".bash_logout": "file",
+        ".bash_profile": "file",
+        ".bashrc": "file",
+        ".git-credentials": "file",
+        ".profile": "file",
+        ".p10k.zsh": "file",
+        ".viminfo": "file",
+        ".wget-hsts": "file",
+        ".zcompdump": "file"
+      },
+      "file_icons": {
+        "3d": {
+          "path": "./icons/file.svg"
+        },
+        "adobe-ae": {
+          "path": "./icons/file.svg"
+        },
+        "adobe-ai": {
+          "path": "./icons/file.svg"
+        },
+        "adobe-id": {
+          "path": "./icons/file.svg"
+        },
+        "adobe-ps": {
+          "path": "./icons/file.svg"
+        },
+        "adobe-xd": {
+          "path": "./icons/file.svg"
+        },
+        "adonis": {
+          "path": "./icons/file.svg"
+        },
+        "alex": {
+          "path": "./icons/file.svg"
+        },
+        "amber": {
+          "path": "./icons/file.svg"
+        },
+        "android": {
+          "path": "./icons/file.svg"
+        },
+        "angular": {
+          "path": "./icons/file.svg"
+        },
+        "ansible-lint": {
+          "path": "./icons/file.svg"
+        },
+        "antlr": {
+          "path": "./icons/file.svg"
+        },
+        "apache": {
+          "path": "./icons/file.svg"
+        },
+        "api-blueprint": {
+          "path": "./icons/file.svg"
+        },
+        "apollo": {
+          "path": "./icons/file.svg"
+        },
+        "apple": {
+          "path": "./icons/file.svg"
+        },
+        "arduino": {
+          "path": "./icons/file.svg"
+        },
+        "asciidoc": {
+          "path": "./icons/file.svg"
+        },
+        "assembly": {
+          "path": "./icons/file.svg"
+        },
+        "astro": {
+          "path": "./icons/file.svg"
+        },
+        "astro-config": {
+          "path": "./icons/file.svg"
+        },
+        "audio": {
+          "path": "./icons/file.svg"
+        },
+        "autohotkey": {
+          "path": "./icons/file.svg"
+        },
+        "azure-pipelines": {
+          "path": "./icons/file.svg"
+        },
+        "babel": {
+          "path": "./icons/file.svg"
+        },
+        "bash": {
+          "path": "./icons/file.svg"
+        },
+        "batch": {
+          "path": "./icons/file.svg"
+        },
+        "bazel": {
+          "path": "./icons/file.svg"
+        },
+        "benchmark": {
+          "path": "./icons/file.svg"
+        },
+        "bicep": {
+          "path": "./icons/file.svg"
+        },
+        "binary": {
+          "path": "./icons/file.svg"
+        },
+        "biome": {
+          "path": "./icons/file.svg"
+        },
+        "bitbucket": {
+          "path": "./icons/file.svg"
+        },
+        "blink": {
+          "path": "./icons/file.svg"
+        },
+        "blitz": {
+          "path": "./icons/file.svg"
+        },
+        "bower": {
+          "path": "./icons/file.svg"
+        },
+        "browserslist": {
+          "path": "./icons/file.svg"
+        },
+        "bun": {
+          "path": "./icons/file.svg"
+        },
+        "bun-lock": {
+          "path": "./icons/file.svg"
+        },
+        "c": {
+          "path": "./icons/file.svg"
+        },
+        "c-header": {
+          "path": "./icons/file.svg"
+        },
+        "cabal": {
+          "path": "./icons/file.svg"
+        },
+        "caddy": {
+          "path": "./icons/file.svg"
+        },
+        "capacitor": {
+          "path": "./icons/file.svg"
+        },
+        "cargo": {
+          "path": "./icons/file.svg"
+        },
+        "cargo-lock": {
+          "path": "./icons/file.svg"
+        },
+        "certificate": {
+          "path": "./icons/file.svg"
+        },
+        "changelog": {
+          "path": "./icons/file.svg"
+        },
+        "circle-ci": {
+          "path": "./icons/file.svg"
+        },
+        "clojure": {
+          "path": "./icons/file.svg"
+        },
+        "cmake": {
+          "path": "./icons/file.svg"
+        },
+        "cobol": {
+          "path": "./icons/file.svg"
+        },
+        "code-climate": {
+          "path": "./icons/file.svg"
+        },
+        "code-of-conduct": {
+          "path": "./icons/file.svg"
+        },
+        "codeowners": {
+          "path": "./icons/file.svg"
+        },
+        "coffeescript": {
+          "path": "./icons/file.svg"
+        },
+        "commitlint": {
+          "path": "./icons/file.svg"
+        },
+        "config": {
+          "path": "./icons/file.svg"
+        },
+        "contributing": {
+          "path": "./icons/file.svg"
+        },
+        "cpp": {
+          "path": "./icons/file.svg"
+        },
+        "cpp-header": {
+          "path": "./icons/file.svg"
+        },
+        "crystal": {
+          "path": "./icons/file.svg"
+        },
+        "csharp": {
+          "path": "./icons/file.svg"
+        },
+        "cspell": {
+          "path": "./icons/file.svg"
+        },
+        "css": {
+          "path": "./icons/file.svg"
+        },
+        "css-map": {
+          "path": "./icons/file.svg"
+        },
+        "csv": {
+          "path": "./icons/file.svg"
+        },
+        "cucumber": {
+          "path": "./icons/file.svg"
+        },
+        "cuda": {
+          "path": "./icons/file.svg"
+        },
+        "cue": {
+          "path": "./icons/file.svg"
+        },
+        "cursor": {
+          "path": "./icons/file.svg"
+        },
+        "cursor-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "cypress": {
+          "path": "./icons/file.svg"
+        },
+        "d": {
+          "path": "./icons/file.svg"
+        },
+        "darklua": {
+          "path": "./icons/file.svg"
+        },
+        "dart": {
+          "path": "./icons/file.svg"
+        },
+        "dart-generated": {
+          "path": "./icons/file.svg"
+        },
+        "database": {
+          "path": "./icons/file.svg"
+        },
+        "default": {
+          "path": "./icons/file.svg"
+        },
+        "deno": {
+          "path": "./icons/file.svg"
+        },
+        "deno_lock": {
+          "path": "./icons/file.svg"
+        },
+        "dependabot": {
+          "path": "./icons/file.svg"
+        },
+        "devcontainer": {
+          "path": "./icons/file.svg"
+        },
+        "dhall": {
+          "path": "./icons/file.svg"
+        },
+        "diff": {
+          "path": "./icons/file.svg"
+        },
+        "django": {
+          "path": "./icons/file.svg"
+        },
+        "docker": {
+          "path": "./icons/file.svg"
+        },
+        "docker-compose": {
+          "path": "./icons/file.svg"
+        },
+        "docker-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "docusaurus": {
+          "path": "./icons/file.svg"
+        },
+        "drawio": {
+          "path": "./icons/file.svg"
+        },
+        "drizzle-orm": {
+          "path": "./icons/file.svg"
+        },
+        "dub": {
+          "path": "./icons/file.svg"
+        },
+        "dub-selections": {
+          "path": "./icons/file.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/file.svg"
+        },
+        "ejs": {
+          "path": "./icons/file.svg"
+        },
+        "eleventy": {
+          "path": "./icons/file.svg"
+        },
+        "elixir": {
+          "path": "./icons/file.svg"
+        },
+        "elm": {
+          "path": "./icons/file.svg"
+        },
+        "ember": {
+          "path": "./icons/file.svg"
+        },
+        "env": {
+          "path": "./icons/file.svg"
+        },
+        "envrc": {
+          "path": "./icons/file.svg"
+        },
+        "erlang": {
+          "path": "./icons/file.svg"
+        },
+        "esbuild": {
+          "path": "./icons/file.svg"
+        },
+        "eslint": {
+          "path": "./icons/file.svg"
+        },
+        "eslint-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "exe": {
+          "path": "./icons/file.svg"
+        },
+        "fastlane": {
+          "path": "./icons/file.svg"
+        },
+        "favicon": {
+          "path": "./icons/file.svg"
+        },
+        "figma": {
+          "path": "./icons/file.svg"
+        },
+        "file": {
+          "path": "./icons/file.svg"
+        },
+        "file-special": {
+          "path": "./icons/file.svg"
+        },
+        "firebase": {
+          "path": "./icons/file.svg"
+        },
+        "flutter": {
+          "path": "./icons/file.svg"
+        },
+        "font": {
+          "path": "./icons/file.svg"
+        },
+        "foreman": {
+          "path": "./icons/file.svg"
+        },
+        "fortran": {
+          "path": "./icons/file.svg"
+        },
+        "fsharp": {
+          "path": "./icons/file.svg"
+        },
+        "fvm": {
+          "path": "./icons/file.svg"
+        },
+        "gatsby": {
+          "path": "./icons/file.svg"
+        },
+        "gcp": {
+          "path": "./icons/file.svg"
+        },
+        "git": {
+          "path": "./icons/file.svg"
+        },
+        "git-cliff": {
+          "path": "./icons/file.svg"
+        },
+        "gitconfig": {
+          "path": "./icons/file.svg"
+        },
+        "gitlab": {
+          "path": "./icons/file.svg"
+        },
+        "gitpod": {
+          "path": "./icons/file.svg"
+        },
+        "gleam": {
+          "path": "./icons/file.svg"
+        },
+        "gleam-config": {
+          "path": "./icons/file.svg"
+        },
+        "go": {
+          "path": "./icons/file.svg"
+        },
+        "go-mod": {
+          "path": "./icons/file.svg"
+        },
+        "go-template": {
+          "path": "./icons/file.svg"
+        },
+        "godot": {
+          "path": "./icons/file.svg"
+        },
+        "godot-assets": {
+          "path": "./icons/file.svg"
+        },
+        "gradle": {
+          "path": "./icons/file.svg"
+        },
+        "graphql": {
+          "path": "./icons/file.svg"
+        },
+        "groovy": {
+          "path": "./icons/file.svg"
+        },
+        "gulp": {
+          "path": "./icons/file.svg"
+        },
+        "hacking": {
+          "path": "./icons/file.svg"
+        },
+        "haml": {
+          "path": "./icons/file.svg"
+        },
+        "handlebars": {
+          "path": "./icons/file.svg"
+        },
+        "hardhat": {
+          "path": "./icons/file.svg"
+        },
+        "hare": {
+          "path": "./icons/file.svg"
+        },
+        "haskell": {
+          "path": "./icons/file.svg"
+        },
+        "haxe": {
+          "path": "./icons/file.svg"
+        },
+        "helm": {
+          "path": "./icons/file.svg"
+        },
+        "heroku": {
+          "path": "./icons/file.svg"
+        },
+        "histoire": {
+          "path": "./icons/file.svg"
+        },
+        "html": {
+          "path": "./icons/file.svg"
+        },
+        "http": {
+          "path": "./icons/file.svg"
+        },
+        "huff": {
+          "path": "./icons/file.svg"
+        },
+        "hugo": {
+          "path": "./icons/file.svg"
+        },
+        "humans": {
+          "path": "./icons/file.svg"
+        },
+        "husky": {
+          "path": "./icons/file.svg"
+        },
+        "image": {
+          "path": "./icons/file.svg"
+        },
+        "ionic": {
+          "path": "./icons/file.svg"
+        },
+        "java": {
+          "path": "./icons/file.svg"
+        },
+        "java-class": {
+          "path": "./icons/file.svg"
+        },
+        "java-jar": {
+          "path": "./icons/file.svg"
+        },
+        "javascript": {
+          "path": "./icons/file.svg"
+        },
+        "javascript-config": {
+          "path": "./icons/file.svg"
+        },
+        "javascript-map": {
+          "path": "./icons/file.svg"
+        },
+        "javascript-react": {
+          "path": "./icons/file.svg"
+        },
+        "javascript-test": {
+          "path": "./icons/file.svg"
+        },
+        "jest": {
+          "path": "./icons/file.svg"
+        },
+        "jinja": {
+          "path": "./icons/file.svg"
+        },
+        "json": {
+          "path": "./icons/file.svg"
+        },
+        "json-schema": {
+          "path": "./icons/file.svg"
+        },
+        "juce": {
+          "path": "./icons/file.svg"
+        },
+        "jule": {
+          "path": "./icons/file.svg"
+        },
+        "julia": {
+          "path": "./icons/file.svg"
+        },
+        "jupyter": {
+          "path": "./icons/file.svg"
+        },
+        "just": {
+          "path": "./icons/file.svg"
+        },
+        "kdl": {
+          "path": "./icons/file.svg"
+        },
+        "key": {
+          "path": "./icons/file.svg"
+        },
+        "knip": {
+          "path": "./icons/file.svg"
+        },
+        "kotlin": {
+          "path": "./icons/file.svg"
+        },
+        "laravel": {
+          "path": "./icons/file.svg"
+        },
+        "latex": {
+          "path": "./icons/file.svg"
+        },
+        "latte": {
+          "path": "./icons/file.svg"
+        },
+        "lerna": {
+          "path": "./icons/file.svg"
+        },
+        "less": {
+          "path": "./icons/file.svg"
+        },
+        "lib": {
+          "path": "./icons/file.svg"
+        },
+        "license": {
+          "path": "./icons/file.svg"
+        },
+        "lint-staged": {
+          "path": "./icons/file.svg"
+        },
+        "liquid": {
+          "path": "./icons/file.svg"
+        },
+        "lisp": {
+          "path": "./icons/file.svg"
+        },
+        "lock": {
+          "path": "./icons/file.svg"
+        },
+        "log": {
+          "path": "./icons/file.svg"
+        },
+        "lua": {
+          "path": "./icons/file.svg"
+        },
+        "lua-check": {
+          "path": "./icons/file.svg"
+        },
+        "lua-client": {
+          "path": "./icons/file.svg"
+        },
+        "lua-rocks": {
+          "path": "./icons/file.svg"
+        },
+        "lua-server": {
+          "path": "./icons/file.svg"
+        },
+        "lua-test": {
+          "path": "./icons/file.svg"
+        },
+        "luau": {
+          "path": "./icons/file.svg"
+        },
+        "luau-check": {
+          "path": "./icons/file.svg"
+        },
+        "luau-client": {
+          "path": "./icons/file.svg"
+        },
+        "luau-config": {
+          "path": "./icons/file.svg"
+        },
+        "luau-server": {
+          "path": "./icons/file.svg"
+        },
+        "luau-test": {
+          "path": "./icons/file.svg"
+        },
+        "macos": {
+          "path": "./icons/file.svg"
+        },
+        "makefile": {
+          "path": "./icons/file.svg"
+        },
+        "mantle": {
+          "path": "./icons/file.svg"
+        },
+        "markdown": {
+          "path": "./icons/file.svg"
+        },
+        "markdown-mdx": {
+          "path": "./icons/file.svg"
+        },
+        "marko": {
+          "path": "./icons/file.svg"
+        },
+        "matlab": {
+          "path": "./icons/file.svg"
+        },
+        "mdbook": {
+          "path": "./icons/file.svg"
+        },
+        "mermaid": {
+          "path": "./icons/file.svg"
+        },
+        "meson": {
+          "path": "./icons/file.svg"
+        },
+        "midi": {
+          "path": "./icons/file.svg"
+        },
+        "mjml": {
+          "path": "./icons/file.svg"
+        },
+        "modernizr": {
+          "path": "./icons/file.svg"
+        },
+        "moonrepo": {
+          "path": "./icons/file.svg"
+        },
+        "moonwave": {
+          "path": "./icons/file.svg"
+        },
+        "ms-excel": {
+          "path": "./icons/file.svg"
+        },
+        "ms-powerpoint": {
+          "path": "./icons/file.svg"
+        },
+        "ms-word": {
+          "path": "./icons/file.svg"
+        },
+        "msbuild": {
+          "path": "./icons/file.svg"
+        },
+        "nativescript": {
+          "path": "./icons/file.svg"
+        },
+        "nest": {
+          "path": "./icons/file.svg"
+        },
+        "netlify": {
+          "path": "./icons/file.svg"
+        },
+        "next": {
+          "path": "./icons/file.svg"
+        },
+        "nextflow": {
+          "path": "./icons/file.svg"
+        },
+        "nginx": {
+          "path": "./icons/file.svg"
+        },
+        "nim": {
+          "path": "./icons/file.svg"
+        },
+        "ninja": {
+          "path": "./icons/file.svg"
+        },
+        "nix": {
+          "path": "./icons/file.svg"
+        },
+        "nix-lock": {
+          "path": "./icons/file.svg"
+        },
+        "nodemon": {
+          "path": "./icons/file.svg"
+        },
+        "npm": {
+          "path": "./icons/file.svg"
+        },
+        "npm-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "npm-lock": {
+          "path": "./icons/file.svg"
+        },
+        "nuget": {
+          "path": "./icons/file.svg"
+        },
+        "nunjucks": {
+          "path": "./icons/file.svg"
+        },
+        "nuxt": {
+          "path": "./icons/file.svg"
+        },
+        "nuxt-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "nx": {
+          "path": "./icons/file.svg"
+        },
+        "nx-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "ocaml": {
+          "path": "./icons/file.svg"
+        },
+        "odin": {
+          "path": "./icons/file.svg"
+        },
+        "opentofu": {
+          "path": "./icons/file.svg"
+        },
+        "org": {
+          "path": "./icons/file.svg"
+        },
+        "package-json": {
+          "path": "./icons/file.svg"
+        },
+        "panda-css": {
+          "path": "./icons/file.svg"
+        },
+        "pdf": {
+          "path": "./icons/file.svg"
+        },
+        "perl": {
+          "path": "./icons/file.svg"
+        },
+        "pesde": {
+          "path": "./icons/file.svg"
+        },
+        "pesde-lock": {
+          "path": "./icons/file.svg"
+        },
+        "php": {
+          "path": "./icons/file.svg"
+        },
+        "phrase": {
+          "path": "./icons/file.svg"
+        },
+        "phtml": {
+          "path": "./icons/file.svg"
+        },
+        "pixi": {
+          "path": "./icons/file.svg"
+        },
+        "pixi-lock": {
+          "path": "./icons/file.svg"
+        },
+        "plantuml": {
+          "path": "./icons/file.svg"
+        },
+        "playwright": {
+          "path": "./icons/file.svg"
+        },
+        "plop": {
+          "path": "./icons/file.svg"
+        },
+        "pnpm": {
+          "path": "./icons/file.svg"
+        },
+        "pnpm-lock": {
+          "path": "./icons/file.svg"
+        },
+        "poetry-lock": {
+          "path": "./icons/file.svg"
+        },
+        "postcss": {
+          "path": "./icons/file.svg"
+        },
+        "powershell": {
+          "path": "./icons/file.svg"
+        },
+        "pre-commit": {
+          "path": "./icons/file.svg"
+        },
+        "premake": {
+          "path": "./icons/file.svg"
+        },
+        "prettier": {
+          "path": "./icons/file.svg"
+        },
+        "prettier-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "prisma": {
+          "path": "./icons/file.svg"
+        },
+        "profile": {
+          "path": "./icons/file.svg"
+        },
+        "prolog": {
+          "path": "./icons/file.svg"
+        },
+        "properties": {
+          "path": "./icons/file.svg"
+        },
+        "proto": {
+          "path": "./icons/file.svg"
+        },
+        "prototools": {
+          "path": "./icons/file.svg"
+        },
+        "pug": {
+          "path": "./icons/file.svg"
+        },
+        "puppet": {
+          "path": "./icons/file.svg"
+        },
+        "puppeteer": {
+          "path": "./icons/file.svg"
+        },
+        "python": {
+          "path": "./icons/file.svg"
+        },
+        "python-compiled": {
+          "path": "./icons/file.svg"
+        },
+        "python-config": {
+          "path": "./icons/file.svg"
+        },
+        "r": {
+          "path": "./icons/file.svg"
+        },
+        "racket": {
+          "path": "./icons/file.svg"
+        },
+        "razor": {
+          "path": "./icons/file.svg"
+        },
+        "rdata": {
+          "path": "./icons/file.svg"
+        },
+        "readme": {
+          "path": "./icons/file.svg"
+        },
+        "reason": {
+          "path": "./icons/file.svg"
+        },
+        "redwood": {
+          "path": "./icons/file.svg"
+        },
+        "release": {
+          "path": "./icons/file.svg"
+        },
+        "remix": {
+          "path": "./icons/file.svg"
+        },
+        "renovate": {
+          "path": "./icons/file.svg"
+        },
+        "rescript": {
+          "path": "./icons/file.svg"
+        },
+        "rmd": {
+          "path": "./icons/file.svg"
+        },
+        "roblox": {
+          "path": "./icons/file.svg"
+        },
+        "robots": {
+          "path": "./icons/file.svg"
+        },
+        "rocket": {
+          "path": "./icons/file.svg"
+        },
+        "rokit": {
+          "path": "./icons/file.svg"
+        },
+        "rollup": {
+          "path": "./icons/file.svg"
+        },
+        "rproj": {
+          "path": "./icons/file.svg"
+        },
+        "rsml": {
+          "path": "./icons/file.svg"
+        },
+        "ruby": {
+          "path": "./icons/file.svg"
+        },
+        "ruby-gem": {
+          "path": "./icons/file.svg"
+        },
+        "ruby-gem-lock": {
+          "path": "./icons/file.svg"
+        },
+        "ruff": {
+          "path": "./icons/file.svg"
+        },
+        "rust": {
+          "path": "./icons/file.svg"
+        },
+        "rust-config": {
+          "path": "./icons/file.svg"
+        },
+        "salesforce": {
+          "path": "./icons/file.svg"
+        },
+        "sass": {
+          "path": "./icons/file.svg"
+        },
+        "scala": {
+          "path": "./icons/file.svg"
+        },
+        "scheme": {
+          "path": "./icons/file.svg"
+        },
+        "search": {
+          "path": "./icons/file.svg"
+        },
+        "security": {
+          "path": "./icons/file.svg"
+        },
+        "semantic-release": {
+          "path": "./icons/file.svg"
+        },
+        "semgrep": {
+          "path": "./icons/file.svg"
+        },
+        "semgrep-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "sentry": {
+          "path": "./icons/file.svg"
+        },
+        "serverless": {
+          "path": "./icons/file.svg"
+        },
+        "settings": {
+          "path": "./icons/file.svg"
+        },
+        "shader": {
+          "path": "./icons/file.svg"
+        },
+        "shell": {
+          "path": "./icons/file.svg"
+        },
+        "sketch": {
+          "path": "./icons/file.svg"
+        },
+        "slidesk": {
+          "path": "./icons/file.svg"
+        },
+        "snowpack": {
+          "path": "./icons/file.svg"
+        },
+        "solidity": {
+          "path": "./icons/file.svg"
+        },
+        "sonar-cloud": {
+          "path": "./icons/file.svg"
+        },
+        "spwn": {
+          "path": "./icons/file.svg"
+        },
+        "squirrel": {
+          "path": "./icons/file.svg"
+        },
+        "stackblitz": {
+          "path": "./icons/file.svg"
+        },
+        "stata": {
+          "path": "./icons/file.svg"
+        },
+        "stencil": {
+          "path": "./icons/file.svg"
+        },
+        "stitches": {
+          "path": "./icons/file.svg"
+        },
+        "storybook": {
+          "path": "./icons/file.svg"
+        },
+        "storybook-svelte": {
+          "path": "./icons/file.svg"
+        },
+        "storybook-vue": {
+          "path": "./icons/file.svg"
+        },
+        "stylelint": {
+          "path": "./icons/file.svg"
+        },
+        "stylelint-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "stylua": {
+          "path": "./icons/file.svg"
+        },
+        "stylua-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "sublime": {
+          "path": "./icons/file.svg"
+        },
+        "super-collider": {
+          "path": "./icons/file.svg"
+        },
+        "svelte": {
+          "path": "./icons/file.svg"
+        },
+        "svelte-config": {
+          "path": "./icons/file.svg"
+        },
+        "svg": {
+          "path": "./icons/file.svg"
+        },
+        "swift": {
+          "path": "./icons/file.svg"
+        },
+        "swiftformat": {
+          "path": "./icons/file.svg"
+        },
+        "tailwind": {
+          "path": "./icons/file.svg"
+        },
+        "taskfile": {
+          "path": "./icons/file.svg"
+        },
+        "tauri": {
+          "path": "./icons/file.svg"
+        },
+        "tauri-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "terminal": {
+          "path": "./icons/file.svg"
+        },
+        "terraform": {
+          "path": "./icons/file.svg"
+        },
+        "text": {
+          "path": "./icons/file.svg"
+        },
+        "todo": {
+          "path": "./icons/file.svg"
+        },
+        "toml": {
+          "path": "./icons/file.svg"
+        },
+        "turbo": {
+          "path": "./icons/file.svg"
+        },
+        "twig": {
+          "path": "./icons/file.svg"
+        },
+        "twine": {
+          "path": "./icons/file.svg"
+        },
+        "typescript": {
+          "path": "./icons/file.svg"
+        },
+        "typescript-config": {
+          "path": "./icons/file.svg"
+        },
+        "typescript-def": {
+          "path": "./icons/file.svg"
+        },
+        "typescript-react": {
+          "path": "./icons/file.svg"
+        },
+        "typescript-test": {
+          "path": "./icons/file.svg"
+        },
+        "typst": {
+          "path": "./icons/file.svg"
+        },
+        "unity": {
+          "path": "./icons/file.svg"
+        },
+        "unocss": {
+          "path": "./icons/file.svg"
+        },
+        "url": {
+          "path": "./icons/file.svg"
+        },
+        "uv": {
+          "path": "./icons/file.svg"
+        },
+        "v": {
+          "path": "./icons/file.svg"
+        },
+        "vala": {
+          "path": "./icons/file.svg"
+        },
+        "vanilla-extract": {
+          "path": "./icons/file.svg"
+        },
+        "vapi": {
+          "path": "./icons/file.svg"
+        },
+        "vento": {
+          "path": "./icons/file.svg"
+        },
+        "vercel": {
+          "path": "./icons/file.svg"
+        },
+        "vercel-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "verilog": {
+          "path": "./icons/file.svg"
+        },
+        "vhs": {
+          "path": "./icons/file.svg"
+        },
+        "video": {
+          "path": "./icons/file.svg"
+        },
+        "vim": {
+          "path": "./icons/file.svg"
+        },
+        "visual-studio": {
+          "path": "./icons/file.svg"
+        },
+        "vital": {
+          "path": "./icons/file.svg"
+        },
+        "vite": {
+          "path": "./icons/file.svg"
+        },
+        "vitest": {
+          "path": "./icons/file.svg"
+        },
+        "vs-codium": {
+          "path": "./icons/file.svg"
+        },
+        "vscode": {
+          "path": "./icons/file.svg"
+        },
+        "vscode-ignore": {
+          "path": "./icons/file.svg"
+        },
+        "vue": {
+          "path": "./icons/file.svg"
+        },
+        "vue-config": {
+          "path": "./icons/file.svg"
+        },
+        "wally": {
+          "path": "./icons/file.svg"
+        },
+        "web-assembly": {
+          "path": "./icons/file.svg"
+        },
+        "webpack": {
+          "path": "./icons/file.svg"
+        },
+        "windi": {
+          "path": "./icons/file.svg"
+        },
+        "workflow": {
+          "path": "./icons/file.svg"
+        },
+        "wrangler": {
+          "path": "./icons/file.svg"
+        },
+        "wxt": {
+          "path": "./icons/file.svg"
+        },
+        "xaml": {
+          "path": "./icons/file.svg"
+        },
+        "xcode": {
+          "path": "./icons/file.svg"
+        },
+        "xmake": {
+          "path": "./icons/file.svg"
+        },
+        "xml": {
+          "path": "./icons/file.svg"
+        },
+        "yaml": {
+          "path": "./icons/file.svg"
+        },
+        "yarn": {
+          "path": "./icons/file.svg"
+        },
+        "yarn-lock": {
+          "path": "./icons/file.svg"
+        },
+        "zap": {
+          "path": "./icons/file.svg"
+        },
+        "zig": {
+          "path": "./icons/file.svg"
+        },
+        "zip": {
+          "path": "./icons/file.svg"
+        },
+        "zsh": {
+          "path": "./icons/file.svg"
+        }
+      }
+    }
+  ]
+}

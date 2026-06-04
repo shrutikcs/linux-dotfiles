@@ -56,20 +56,20 @@ white = "0xECEFF4"
 size = 16
 
 [font.normal]
-family = "JetBrainsMono Nerd Font"
+family = "DankMono Nerd Font Mono"
 style = "Regular"
 
 [font.bold]
-family = "JetBrainsMono Nerd Font"
+family = "DankMono Nerd Font Mono"
 style = "Bold"
 
 [font.italic]
-family = "JetBrainsMono Nerd Font"
+family = "DankMono Nerd Font Mono"
 style = "Italic"
 
 [font.bold_italic]
-family = "JetBrainsMono Nerd Font"
-style = "Bold Italic"
+family = "DankMono Nerd Font Mono"
+style = "Bold"
 
 [selection]
 semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"

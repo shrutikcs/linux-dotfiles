@@ -1,0 +1,20 @@
+id = "rose-pine-icons"
+name = "Rose Pine Icons"
+version = "2.15.1"
+schema_version = 1
+description = "Rose Pine file and folder icons for Zed, ported from the VS Code extension."
+repository = "https://github.com/rose-pine/vscode"
+authors = ["Rose Pine <hi@rosepinetheme.com>"]
+icon_themes = ["icon_themes/rose-pine-icons.json"]
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]

@@ -1,10 +1,11 @@
 {
-    "workbench.colorTheme": "Rosé Pine",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "editor.stickyScroll.enabled": false,
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "DankMono Nerd Font Mono",
     "editor.tabSize": 2,
-    "editor.fontFamily": "FantasqueSansM Nerd Font Propo",
+    "editor.fontFamily": "DankMono Nerd Font Mono",
     "files.autoSave": "afterDelay",
     "editor.autoIndentOnPaste": true,
     "editor.smoothScrolling": true,
@@ -39,5 +40,17 @@
     "window.menuBarVisibility": "hidden",
     "python.languageServer": "Default",
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "docker-desktop"
+    ],
+    "workbench.statusBar.visible": false
 }

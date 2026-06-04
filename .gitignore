@@ -1,0 +1,21 @@
+# Browser profile data can contain history, sessions, tokens, cookies, and local secrets.
+dot_config/private_net.imput.helium/
+dot_config/private_*chrom*/
+dot_config/private_*chrome*/
+dot_config/private_*chromium*/
+dot_config/**/private_History
+dot_config/**/private_Login Data
+dot_config/**/private_Cookies
+dot_config/**/private_Web Data
+dot_config/**/private_Local State
+dot_config/**/private_Preferences
+
+# Common local secret files that should not be committed from chezmoi source.
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+**/credentials
+**/secrets.*

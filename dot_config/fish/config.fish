@@ -139,6 +139,7 @@ alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
 
 # Custom
 alias ag="antigravity"
+alias z="zeditor"
 alias efc="micro ~/.config/fish/config.fish"
 alias eac="micro ~/.config/alacritty/alacritty.toml"
 
