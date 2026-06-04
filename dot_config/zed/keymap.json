@@ -1,0 +1,45 @@
+[
+  {
+    "context": "Editor && mode == full",
+    "bindings": {
+      "alt-q": "editor::Format",
+      "shift-alt-f": null,
+      "alt-w": "editor::ToggleSoftWrap",
+      "alt-z": null,
+      "shift-alt-down": "editor::DuplicateLineDown",
+      "shift-alt-up": "editor::DuplicateLineUp",
+      "ctrl-alt-shift-down": null,
+      "ctrl-alt-shift-up": null
+    }
+  },
+  {
+    "context": "Pane",
+    "bindings": {
+      "alt-w": "editor::ToggleSoftWrap"
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "ctrl-alt-b": "workspace::ToggleLeftDock"
+    }
+  },
+  {
+    "context": "Workspace",
+    "unbind": {
+      "ctrl-b": "workspace::ToggleLeftDock"
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "ctrl-b": "workspace::ToggleRightDock"
+    }
+  },
+  {
+    "context": "Workspace",
+    "unbind": {
+      "ctrl-alt-b": "workspace::ToggleRightDock"
+    }
+  }
+]
