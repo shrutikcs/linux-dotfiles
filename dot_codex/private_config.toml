@@ -1,0 +1,788 @@
+model = "gpt-5.4"
+model_reasoning_effort = "medium"
+approval_policy = "never"
+approvals_reviewer = "user"
+sandbox_mode = "danger-full-access"
+plan_mode_reasoning_effort = "medium"
+service_tier = "default"
+personality = "pragmatic"
+[projects."/home/shrutikcs/Documents/projects/rag-pipeline"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/datumaro"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/piccolo"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/dynaconf"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/huey"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/copier"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/nornir"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/cyclopts"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/pluggy"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/dlt"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/pip-tools"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/structlog"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/projects/GenerativeAICourse"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/YeetMouse"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/schemathesis"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/mohitlabs/qraft"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/apscheduler"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/mkdocs"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/rq"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/prompts"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/alembic"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/pre-commit"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/mohitlabs/snap-vault"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/mohitlabs/archon"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/.local/share/chezmoi"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/doit"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/sqlmesh"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/meltano"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/panel"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/pyinfra"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/voila"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/conda"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/spack"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/kombu"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/intake"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/airflow"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/parsl"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/kedro"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/robotframework"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/cartography"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/warehouse"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/toil"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/dvc"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/dagster"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/optuna"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/httpx2"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/tortoise-orm"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/iceberg-python"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/kafka-python"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/jupyter_server"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/poetry"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/xarray"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/coveragepy"]
+trust_level = "trusted"
+
+[projects."/home/shrutikcs/Documents/shipd/prefect"]
+trust_level = "trusted"
+
+[plugins."github@openai-curated"]
+enabled = false
+
+[plugins."vercel@openai-curated"]
+enabled = false
+
+[plugins."documents@openai-primary-runtime"]
+enabled = false
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = false
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = false
+
+[plugins."chrome@openai-bundled"]
+enabled = false
+
+[tui]
+theme = "gruvbox-dark"
+session_picker_view = "dense"
+pet = "bsod"
+status_line = ["model-with-reasoning", "current-dir", "five-hour-limit", "weekly-limit", "context-used", "context-window-size"]
+status_line_use_colors = true
+terminal_title = ["activity"]
+
+[tui.model_availability_nux]
+"gpt-5.5" = 4
+
+[features]
+apps = false
+hooks = true
+terminal_resize_reflow = true
+prevent_idle_sleep = true
+
+[notice]
+hide_full_access_warning = true
+fast_default_opt_out = true
+
+[notice.model_migrations]
+"gpt-5.4" = "gpt-5.5"
+
+[marketplaces.openai-bundled]
+last_updated = "2026-05-23T21:00:35Z"
+source_type = "local"
+source = "/home/shrutikcs/.codex/.tmp/bundled-marketplaces/openai-bundled"
+
+[marketplaces.openai-primary-runtime]
+last_updated = "2026-05-23T21:36:26Z"
+source_type = "local"
+source = "/home/shrutikcs/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime"
+
+[[skills.config]]
+path = "/home/shrutikcs/.agents/skills/shipd-olympus-submit/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.521.10419/skills/spreadsheets/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/ai-elements/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/ai-gateway/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/ai-generation-persistence/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/ai-sdk/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/chat-sdk/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/cms/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/cron-jobs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/deployments-cicd/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/email/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/geist/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/geistdocs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/json-render/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/marketplace/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/next-forge/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/nextjs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/payments/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/react-best-practices/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/satori/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/shadcn/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/sign-in-with-vercel/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/turbopack/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/turborepo/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-agent/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-api/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-cli/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-firewall/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-flags/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-functions/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-queues/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-sandbox/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-services/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/vercel-storage/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3f0def1b/skills/auth/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/github/3e1ccdb3/skills/gh-fix-ci/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-primary-runtime/presentations/26.521.10419/skills/presentations/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/workflow/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-storage/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-services/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-sandbox/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-queues/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-functions/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-flags/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-firewall/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-cli/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-api/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/vercel-agent/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/v0-dev/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/turborepo/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/turbopack/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/swr/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/sign-in-with-vercel/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/shadcn/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/runtime-cache/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/routing-middleware/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/react-best-practices/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/satori/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/payments/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/observability/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/next-forge/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/ncc/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/micro/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/nextjs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/marketplace/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/json-render/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/investigation-mode/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/geistdocs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/geist/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/env-vars/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/email/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/deployments-cicd/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/cron-jobs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/cms/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/chat-sdk/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/bootstrap/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/auth/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/ai-sdk/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/ai-generation-persistence/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/ai-gateway/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/ai-elements/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/agent-browser-verify/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/3e1ccdb3/skills/agent-browser/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-bundled/chrome/0.1.7/skills/chrome/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-primary-runtime/documents/26.521.10419/skills/documents/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/github/7118aaa3/skills/gh-address-comments/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/github/7118aaa3/skills/gh-fix-ci/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/github/7118aaa3/skills/yeet/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated-remote/gmail/0.1.3/skills/gmail/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated-remote/gmail/0.1.3/skills/gmail-inbox-triage/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/agent-browser/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/agent-browser-verify/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/ai-elements/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/ai-gateway/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/ai-generation-persistence/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/ai-sdk/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/auth/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/bootstrap/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/chat-sdk/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/cms/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/cron-jobs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/deployments-cicd/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/email/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/env-vars/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/geist/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/geistdocs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/investigation-mode/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/json-render/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/marketplace/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/micro/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/ncc/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/next-forge/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/nextjs/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/observability/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/payments/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/react-best-practices/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/routing-middleware/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/runtime-cache/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/satori/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/shadcn/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/v0-dev/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/turborepo/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/turbopack/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/swr/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/sign-in-with-vercel/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-flags/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-firewall/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-cli/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-api/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-agent/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-storage/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-services/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-sandbox/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-queues/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/vercel-functions/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/workflow/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/plugins/cache/openai-curated/vercel/7118aaa3/skills/verification/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "/home/shrutikcs/.codex/skills/.system/imagegen/SKILL.md"
+enabled = false
+
+[memories]
+use_memories = false
+generate_memories = false
+
+[hooks.state]
+
+[hooks.state."/home/shrutikcs/.codex/hooks.json:session_start:0:0"]
+trusted_hash = "sha256:500549f9c5f4e44b4620cab352a49a973ba7c56db55f1532b02201e869abd353"
