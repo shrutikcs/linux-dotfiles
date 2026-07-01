@@ -29,7 +29,7 @@ My personal Linux config files for a minimal Wayland setup on CachyOS.
  
 | Key | Action |
 |---|---|
-| `Mod+Return` | Open terminal (Alacritty) |
+| `Mod+Return` | Open terminal (Ghostty) |
 | `Mod+Ctrl+Return` | Open app launcher (noctalia) |
 | `Mod+B` | Open browser (Brave) |
 | `Mod+E` | Open file manager (Nautilus) |

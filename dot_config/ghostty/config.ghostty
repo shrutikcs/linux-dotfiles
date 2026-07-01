@@ -1,0 +1,14 @@
+theme = Atom One Dark
+background-opacity = 0.72
+background-blur = 80
+window-padding-x = 20
+window-padding-y = 20
+window-padding-balance = false
+font-family = DankMono Nerd Font Mono
+font-size = 16
+cursor-style = underline
+cursor-style-blink = true
+confirm-close-surface = false
+quick-terminal-animation-duration = 0.2
+custom-shader = /home/shrutikcs/.config/ghostty/smooth-cursor.glsl
+custom-shader-animation = true

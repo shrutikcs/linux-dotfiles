@@ -142,6 +142,7 @@ alias ag="antigravity"
 alias z="zeditor"
 alias efc="micro ~/.config/fish/config.fish"
 alias eac="micro ~/.config/alacritty/alacritty.toml"
+alias egc="micro ~/.config/ghostty/config.ghostty"
 
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
