@@ -1,4 +1,7 @@
 {
+  "disable_ai": false,
+  "agent_buffer_font_size": 22.0,
+  "agent_ui_font_size": 22.0,
   "tab_bar": {
     "show_tab_bar_buttons": true,
     "show_nav_history_buttons": false
@@ -10,13 +13,27 @@
   "cli_default_open_behavior": "existing_window",
   "window_decorations": "server",
   "agent": {
+    "enable_feedback": false,
+    "inline_assistant_model": {
+      "provider": "openai-subscribed",
+      "model": "gpt-5.4",
+      "enable_thinking": false
+    },
+    "default_profile": "minimal",
+    "profiles": {
+      
+    },
+    "default_model": {
+      "provider": "openai-subscribed",
+      "model": "gpt-5.5",
+      "enable_thinking": true,
+      "effort": "low"
+    },
     "dock": "left",
     "favorite_models": [],
     "model_parameters": []
   },
-  "agent_buffer_font_size": 20.0,
-  "agent_ui_font_size": 20.0,
-  "ui_font_family": "DankMono Nerd Font",
+  "ui_font_family": "Adwaita Sans",
   "telemetry": {
     "diagnostics": false,
     "metrics": false
@@ -26,6 +43,10 @@
   },
   "agent_servers": {
     "codex-acp": {
+      "default_config_options": {
+        "reasoning_effort": "low",
+        "fast-mode": "off"
+      },
       "type": "registry"
     }
   },
@@ -37,7 +58,7 @@
   "base_keymap": "VSCode",
   "theme": {
     "mode": "dark",
-    "dark": "Atom One Dark",
+    "dark": "JetBrains Islands Dark",
     "light": "Gruvbox Light Soft"
   },
   "icon_theme": {
@@ -45,16 +66,17 @@
     "dark": "Rose Pine Icons",
     "light": "Rose Pine Icons"
   },
-  "ui_font_size": 20.0,
-  "buffer_font_size": 20.0,
-  "buffer_font_family": "DankMono Nerd Font Mono",
+  "ui_font_size": 25.0,
+  "buffer_font_size": 22.0,
+  "buffer_font_family": "JetBrainsMono Nerd Font Propo",
   "buffer_line_height": {
     "custom": 1.8
   },
   "terminal": {
+    "shell": "system",
     "default_height": 640.0,
-    "font_size": 20,
-    "font_family": "DankMono Nerd Font Mono",
+    "font_size": 22.0,
+    "font_family": "JetBrainsMono Nerd Font Propo",
     "line_height": {
       "custom": 1.4
     }
